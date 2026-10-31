@@ -103,8 +103,9 @@ for (const artist of data.artists) {
   }
 
   // Preserve manually curated platform-only rows (e.g. NetEase songs with no Apple preview).
-  const existingExternal = (previous[artist.id] || []).filter((track) => !track.previewUrl && track.externalUrl);
-  for (const track of existingExternal) {
+  const previousTracks = previous[artist.id] || [];
+  const existingExternal = previousTracks.filter((track) => !track.previewUrl && track.externalUrl);
+  for (const track of [...existingExternal, ...previousTracks]) {
     const key = normalize(track.title);
     if (!key || seen.has(key)) continue;
     seen.add(key);
