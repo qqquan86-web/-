@@ -37,34 +37,34 @@ for (const artist of artists) {
       .filter((item) => (item.releaseDate || '').slice(0, 10) <= TODAY)
       .filter((item) => {
         const name = normalize(item.artistName);
-        return aliases.some((alias) => name === alias || name.startsWith(`${alias} `) || name.startsWith(`${alias},`) || name.startsWith(`${alias} &`));
+        return Number(item.artistId) === artistId || aliases.some((alias) => name.includes(alias));
       })
       .sort((a, b) => (b.releaseDate || '').localeCompare(a.releaseDate || ''));
-    let chosen = null;
-    for (const album of albums) {
-      try {
-        const tracksData = await getJson(`https://itunes.apple.com/lookup?${new URLSearchParams({ id: album.collectionId, entity: 'song', limit: '100', country: 'us' })}`);
-        const tracks = (tracksData.results || []).filter((t) => t.wrapperType === 'track' && t.previewUrl);
-        if (!tracks.length) continue;
-        const track = tracks[0];
-        chosen = {
-          title: (album.collectionName || '').replace(/ - Single$/, '').replace(/ - EP$/, ''),
-          type: album.trackCount <= 2 ? 'single' : (String(album.collectionName).includes('EP') && album.trackCount <= 6 ? 'ep' : 'album'),
-          date: (album.releaseDate || '').slice(0, 10),
-          tracks: album.trackCount,
-          appleUrl: album.collectionViewUrl,
-          preview: { title: track.trackName, durationMs: track.trackTimeMillis || 0, url: track.previewUrl, artwork: track.artworkUrl100, appleUrl: track.trackViewUrl }
-        };
-        break;
-      } catch (error) {
-        console.warn('track lookup failed', artist.id, error.message);
+    const album = albums[0];
+    if (!album) continue;
+    let preview = null;
+    try {
+      const tracksData = await getJson(`https://itunes.apple.com/lookup?${new URLSearchParams({ id: album.collectionId, entity: 'song', limit: '100', country: 'us' })}`);
+      const track = (tracksData.results || []).find((t) => t.wrapperType === 'track' && t.previewUrl);
+      if (track) {
+        preview = { title: track.trackName, durationMs: track.trackTimeMillis || 0, url: track.previewUrl, artwork: track.artworkUrl100, appleUrl: track.trackViewUrl };
       }
+    } catch (error) {
+      console.warn('track lookup failed', artist.id, error.message);
     }
-    if (chosen && chosen.date !== artist.project.date) {
+    const chosen = {
+      title: (album.collectionName || '').replace(/ - Single$/, '').replace(/ - EP$/, ''),
+      type: album.trackCount <= 2 ? 'single' : (String(album.collectionName).includes('EP') && album.trackCount <= 6 ? 'ep' : 'album'),
+      date: (album.releaseDate || '').slice(0, 10),
+      tracks: album.trackCount,
+      appleUrl: album.collectionViewUrl,
+      preview
+    };
+    if (chosen.date !== artist.project.date || chosen.title !== artist.project.title) {
       const oldDate = artist.project.date;
-      console.log(`${artist.id}: ${oldDate} -> ${chosen.date} / ${chosen.title}`);
+      console.log(`${artist.id}: ${oldDate} -> ${chosen.date} / ${chosen.title}${preview ? '' : ' [no preview]'}`);
       artist.project = chosen;
-      report.push({ id: artist.id, from: oldDate, to: chosen.date, title: chosen.title });
+      report.push({ id: artist.id, from: oldDate, to: chosen.date, title: chosen.title, preview: Boolean(preview) });
     }
   } catch (error) {
     console.warn('album lookup failed', artist.id, error.message);
