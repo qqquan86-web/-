@@ -1,0 +1,76 @@
+name: Daily SUBLEVEL sync
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC.
+    # 16:00 UTC = 00:00 Asia/Shanghai (the next calendar day).
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sublevel-pages
+  cancel-in-progress: false
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Refresh releases
+        run: node sublevel/research/sync_catalog.mjs
+
+      - name: Refresh platform avatars
+        run: python sublevel/research/sync_avatars.py
+
+      - name: Refresh Top Tracks
+        run: node sublevel/research/sync_top_tracks.mjs
+
+      - name: Commit changed data
+        shell: bash
+        run: |
+          git config user.name "sublevel-sync[bot]"
+          git config user.email "sublevel-sync[bot]@users.noreply.github.com"
+          git add sublevel/data.js sublevel/top-tracks.js \
+            sublevel/research/artist_avatars.json \
+            sublevel/research/catalog_sync_report.json
+          if git diff --cached --quiet; then
+            echo "No data changes today."
+          else
+            STAMP=$(TZ=Asia/Shanghai date +%F)
+            git commit -m "chore: daily sublevel sync ${STAMP}"
+            git push
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: sublevel
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
