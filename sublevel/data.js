@@ -496,17 +496,17 @@
       "ja": "香港のラップ／プロダクション・シーンの暗部を担うコラボレーター。インダストリアル・ノイズ、広東語の抑揚、夢のようなサンプルを同じ空間に押し込む。2025年、YoungQueenz、Floyd Cheungと『龍寨 DT2』を共同制作。"
     },
     "project": {
-      "title": "Darth Vader (feat. charity SsB) [Remix]",
-      "type": "single",
-      "date": "2021-12-24",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/darth-vader-feat-charity-ssb-remix-single/1603292193?uo=4",
+      "title": "龍寨 DT2",
+      "type": "album",
+      "date": "2025-12-02",
+      "tracks": 17,
+      "appleUrl": "https://music.apple.com/us/album/%E9%BE%8D%E5%AF%A8-dt2/1856788903?uo=4",
       "preview": {
-        "title": "Darth Vader (feat. charity SsB) [Remix]",
-        "durationMs": 221277,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/34/4b/d9/344bd9d1-62fa-763e-f924-41f928ce902f/mzaf_5688267270522190646.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/61/d9/3b61d925-42b1-032c-0373-f3da6c8184e9/5056495445784_1.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/darth-vader-feat-charity-ssb-remix/1603292193?i=1603292385&uo=4"
+        "title": "Cimetière Raspail",
+        "durationMs": 120500,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/8d/9c/a68d9c83-f731-d39a-94e0-2883743c689e/mzaf_1765771939010091583.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/2e/30/ee2e3070-ba4b-8da1-d4d6-30de50b30f59/367457939995.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/cimeti%C3%A8re-raspail/1856788903?i=1856788906&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/hk/artist/n-o-l-y/1352606173?uo=4",
@@ -741,17 +741,17 @@
       "ja": "日本のプロデューサー／ラッパーで、Mall Boyzのメンバー。抽象的なサンプル、低音、壊れたリズムでクラブとラップの間の空間をつくる。2025年EP『King of Nostalgia』でさらに内側へ。"
     },
     "project": {
-      "title": "Who's Got Game?",
+      "title": "246 (feat. Tohji & gummyboy)",
       "type": "single",
-      "date": "2026-03-25",
+      "date": "2026-04-01",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/whos-got-game-single/1886032200?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/246-feat-tohji-gummyboy-single/1887292720?uo=4",
       "preview": {
-        "title": "Who's Got Game?",
-        "durationMs": 121791,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3e/0c/5b/3e0c5bcb-9dd7-b3db-36c6-7cffc3399241/mzaf_6650412322496822208.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/8d/2d/548d2d99-02ef-839f-a24f-33a9d427cf7f/4550754546782_cover.png/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/whos-got-game/1886032200?i=1886032561&uo=4"
+        "title": "246 (feat. Tohji & gummyboy)",
+        "durationMs": 233442,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/f0/42/1cf04258-0831-2082-5dec-157f0d4f0e30/mzaf_3876335951730336885.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/00/a7/f200a764-6b7e-c874-58a3-4b6e5ea1084c/4550754708647_cover.png/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/246-feat-tohji-gummyboy/1887292720?i=1887292724&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/jp/artist/kzm/1083743314?uo=4",
@@ -988,17 +988,17 @@
       "ja": "英国の実験的ラップ／パフォーマンス・アーティスト。インダストリアル、ノイズ、ダンス、北部アクセントを身体的な圧に圧縮する。2022年EP『Armour II』が今も重要な入口。"
     },
     "project": {
-      "title": "Armour II",
-      "type": "ep",
-      "date": "2022-06-10",
-      "tracks": 6,
-      "appleUrl": "https://music.apple.com/us/album/armour-ii-ep/1619129828?uo=4",
+      "title": "Cold Summer, Pt. 1",
+      "type": "single",
+      "date": "2023-09-08",
+      "tracks": 1,
+      "appleUrl": "https://music.apple.com/us/album/cold-summer-pt-1-single/1830322149?uo=4",
       "preview": {
-        "title": "Stained Materials",
-        "durationMs": 263157,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/37/64/c6/3764c61c-2d2f-9cb0-025c-7bb4b11b5a76/mzaf_8723642118279997850.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/1c/60/511c608d-e4f5-e472-fc0a-89de2e398808/dj.dlehrtku.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/stained-materials/1619129828?i=1619129853&uo=4"
+        "title": "Cold Summer, Pt. 1",
+        "durationMs": 417665,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/28/92/37289265-b007-1465-14c9-5402d58008f7/mzaf_15433827310554913609.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/91/60/8991606c-b253-0ba8-ce59-61cc0957c1ff/197189328138_PqOnPUSGDgLiIGHnwPRhizomes.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/cold-summer-pt-1/1830322149?i=1830322150&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/gb/artist/blackhaine/1538365614?uo=4",
@@ -1087,17 +1087,17 @@
       "ja": "フランスとアルゼンチンのルーツを持つパリのラッパー。アメリカのアンダーグラウンド・プラグの漂流感をパリ版に書き換え、フランスにプラグを持ち込んだ先駆者の一人とされる。2026年、Kasper 939との『PRISE STARS』。"
     },
     "project": {
-      "title": "COMO ANTES",
-      "type": "single",
-      "date": "2026-09-06",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/como-antes-single/6808572109?uo=4",
+      "title": "PRISE STARS",
+      "type": "album",
+      "date": "2026-10-16",
+      "tracks": 7,
+      "appleUrl": "https://music.apple.com/us/album/prise-stars/6824044879?uo=4",
       "preview": {
-        "title": "COMO ANTES",
-        "durationMs": 116333,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/f9/da/34f9da72-9b4d-930e-abb6-847e4a2288a2/mzaf_14137699412373560490.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/84/aa/d784aa94-36a7-6e17-688b-963b1c1a27d3/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/como-antes/6808572109?i=6808572110&uo=4"
+        "title": "FIRST LOVE",
+        "durationMs": 108471,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/4f/bc/e34fbc7f-26d3-96df-969b-c37725748fd5/mzaf_5257988044182522856.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/f9/1c/78f91cab-f0a4-4751-4f88-83cae5b7be33/artwork.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/first-love/6824044879?i=6824044882&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/gb/artist/serane/1528640260?uo=4",
@@ -1445,16 +1445,10 @@
     "project": {
       "title": "BOYS2",
       "type": "album",
-      "date": "2025-07-28",
-      "tracks": 11,
-      "appleUrl": "https://music.apple.com/us/album/boys2/1839422105?uo=4",
-      "preview": {
-        "title": "I miss my h0e",
-        "durationMs": 112224,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/54/e6/9554e667-c1b3-84cc-fb36-2fc8a103f7d2/mzaf_6690728150763822038.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/f5/46/7bf546fb-005a-b01c-49c7-5d41bb069488/cover.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/i-miss-my-h0e/1839422105?i=1839422125&uo=4"
-      }
+      "date": "2026-10-09",
+      "tracks": 14,
+      "appleUrl": "https://music.apple.com/us/album/boys2/6820904505?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/skiboyvv/1615067300?uo=4",
     "avatar": "https://cdn-images.dzcdn.net/images/artist/e14e7c06e52cdb116e41ec033c13ff3f/500x500-000000-80-0-0.jpg"
@@ -1743,18 +1737,12 @@
       "ja": "UDG CYPHER 2026のHIDOYARDのヴァースは、レイジの衝撃とプラグの霧を重ねる。同年のアルバム『莲華』はその不安定さをさらに前景化する。"
     },
     "project": {
-      "title": "莲華",
-      "type": "album",
-      "date": "2026-08-15",
-      "tracks": 7,
-      "appleUrl": "https://music.apple.com/us/album/%E8%8E%B2%E8%8F%AF/6797942408?uo=4",
-      "preview": {
-        "title": "Better",
-        "durationMs": 106764,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/9d/77/af9d770a-2d7a-d4b6-78b1-e3dcc8d3e62b/mzaf_6972801576819581734.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/92/ac/a192ac2a-e935-7aa8-bfcd-4df15ca05772/612891173093.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/better/6797942408?i=6797942410&uo=4"
-      }
+      "title": "星星",
+      "type": "single",
+      "date": "2026-10-25",
+      "tracks": 1,
+      "appleUrl": "https://music.apple.com/us/album/%E6%98%9F%E6%98%9F-single/6826159788?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/hidoyard/1877647294?uo=4",
     "avatar": "https://cdn-images.dzcdn.net/images/artist/0aef8e15524b35b8f7a459bdbb3b7ed7/500x500-000000-80-0-0.jpg"
@@ -1893,17 +1881,17 @@
       "ja": "UDG CYPHER 2026のメンバー。2025年作『21's Tears』はレイジ、プラグ、歪んだメロディを短く攻撃的なフックへ圧縮する。"
     },
     "project": {
-      "title": "AOE Pt.2",
+      "title": "FallingLuv",
       "type": "single",
-      "date": "2026-05-29",
+      "date": "2026-08-19",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/aoe-pt-2-single/6773334465?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/fallingluv-single/6803740798?uo=4",
       "preview": {
-        "title": "AOE Pt.2",
-        "durationMs": 166406,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/be/e2/0dbee25d-0926-ed8f-de67-bca6ba503d57/mzaf_4010474642300179794.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/4b/7b/1b4b7b68-b28a-2730-3c99-c84907706320/cover.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/aoe-pt-2/6773334465?i=6773334470&uo=4"
+        "title": "FallingLuv",
+        "durationMs": 151875,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/b2/33/c4b2339e-21d4-421f-d454-917442c69f60/mzaf_12185390869641719555.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/87/9b/c6879b44-3b0e-4040-c2cc-6e12fac566ac/6936738137982.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/fallingluv/6803740798?i=6803740799&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/dd-ma-shawty/1851131317?uo=4",
@@ -1943,18 +1931,12 @@
       "ja": "UDG CYPHER 2026のオープナー。2025年作『幽默与笑话』と2026年作『商业与玩法』で、今回のUDGサイクルで最も行単位で分析される名前のひとつになった。"
     },
     "project": {
-      "title": "City Life Kills",
-      "type": "single",
-      "date": "2022-11-18",
-      "tracks": 2,
-      "appleUrl": "https://music.apple.com/us/album/city-life-kills-single/1653317091?uo=4",
-      "preview": {
-        "title": "City Life Kills (Extended Version)",
-        "durationMs": 168275,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f2/2f/7b/f22f7b02-05b6-8845-0f55-cd8d066592bd/mzaf_374369565836365325.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/a8/fa/e3a8fa38-b9a3-674c-d6dc-2a00cd5a365d/a762d5be-9ef4-47cf-aee9-1b19d4298309.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/city-life-kills-extended-version/1653317091?i=1653317104&uo=4"
-      }
+      "title": "商业与玩法",
+      "type": "album",
+      "date": "2026-09-26",
+      "tracks": 13,
+      "appleUrl": "https://music.apple.com/us/album/%E5%95%86%E4%B8%9A%E4%B8%8E%E7%8E%A9%E6%B3%95/6815120849?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/jesse-margiela/1652274326?uo=4",
     "avatar": "https://cdn-images.dzcdn.net/images/artist/ee66296360a9260283dbb7c06e20ac63/500x500-000000-80-0-0.jpg"
@@ -1993,17 +1975,17 @@
       "ja": "韓国UDG Freshman Cypher 2026の中心メンバー／エグゼクティブ・プロデューサー。2026年シングル「Desperation 25」はプラグ、レイジ、クラブの低音を押し合わせる。"
     },
     "project": {
-      "title": "gaze",
+      "title": "Desperation 25",
       "type": "single",
-      "date": "2026-10-08",
+      "date": "2026-10-23",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/gaze-single/6820839774?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/desperation-25-single/6827008572?uo=4",
       "preview": {
-        "title": "gaze",
-        "durationMs": 102800,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/98/b3/cf98b316-7538-2eca-e104-b5c6b8089f7e/mzaf_5308588761213957256.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/52/d2/a952d2c5-09e1-cb94-9cf5-53eb768e174d/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/gaze/6820839774?i=6820839775&uo=4"
+        "title": "Desperation 25",
+        "durationMs": 126375,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/1f/38/f61f38d7-5a9a-748f-f1bd-d7a2a3df35ed/mzaf_5404151536205464897.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/91/60/c59160fb-e173-e31b-d20c-47b5143ec30d/artwork.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/desperation-25/6827008572?i=6827008573&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/ananta/1677716394?uo=4",
@@ -2441,18 +2423,12 @@
       "ja": "深圳／上海のコレクティブDARK9COMMUNITYのメンバーで、中国UDGシーンの安定した若い声。2026年EP『:)』はレイジとメロディック・ラップを近づける。"
     },
     "project": {
-      "title": "RAIN (feat. Arthurnevawakes & ATM Hanson)",
-      "type": "single",
-      "date": "2024-07-25",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/rain-feat-arthurnevawakes-atm-hanson-single/1759212565?uo=4",
-      "preview": {
-        "title": "RAIN (feat. Arthurnevawakes & ATM Hanson)",
-        "durationMs": 203239,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/b0/32/b4b032aa-11c1-1d87-2a55-20aea915b511/mzaf_4796418729477741183.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/f1/49/e8f149c7-97dd-491b-d5b9-883041836afc/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/rain-feat-arthurnevawakes-atm-hanson/1759212565?i=1759212567&uo=4"
-      }
+      "title": ":)",
+      "type": "ep",
+      "date": "2026-05-09",
+      "tracks": 5,
+      "appleUrl": "https://music.apple.com/us/album/ep/1895918651?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/arthurnevawakes/1725095916?uo=4",
     "avatar": "https://cdn-images.dzcdn.net/images/artist/d9c0f4ddf32045fcc4a9adec137c8eb7/500x500-000000-80-0-0.jpg"
@@ -2591,18 +2567,12 @@
       "ja": "UDGシーンで最も頻繁に名前が挙がるコラボレーターの一人。2026年の『in 55!w !』やdelphia!との共作はプラグ、レイジ、ベッドルーム・メロディを混ぜ続ける。"
     },
     "project": {
-      "title": "No Hook (feat. HBK Tonio)",
+      "title": "Backstage Pops (feat. skiboyvv)",
       "type": "single",
-      "date": "2020-07-06",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/no-hook-feat-hbk-tonio-single/1519862669?uo=4",
-      "preview": {
-        "title": "No Hook (feat. HBK Tonio)",
-        "durationMs": 141640,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/40/96/564096fc-2989-7e11-2c38-253be346e844/mzaf_9888718808751731211.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/91/67/4f/91674f7e-805b-b7aa-db88-785c6460e472/1E184786-467B-4520-BD60-239DF1986010.png/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/no-hook-feat-hbk-tonio/1519862669?i=1519862670&uo=4"
-      }
+      "date": "2026-09-11",
+      "tracks": 2,
+      "appleUrl": "https://music.apple.com/us/album/backstage-pops-feat-skiboyvv-single/6811155541?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/taco/1652977716?uo=4",
     "avatar": "https://cdn-images.dzcdn.net/images/artist/ba4a0865d41e9645d0d99b600e627d3a/500x500-000000-80-0-0.jpg"
@@ -2791,17 +2761,17 @@
       "ja": "アメリカのアンダーグラウンド・ラッパーで、カタログが非常に長い。2026年作『lovekills』はプラグの弾力とクラウド・ラップの霧を一本の線に伸ばす。"
     },
     "project": {
-      "title": "lovekills",
-      "type": "album",
-      "date": "2026-05-29",
-      "tracks": 16,
-      "appleUrl": "https://music.apple.com/us/album/lovekills/6774275189?uo=4",
+      "title": "Skyte Round 1",
+      "type": "single",
+      "date": "2026-07-17",
+      "tracks": 1,
+      "appleUrl": "https://music.apple.com/us/album/skyte-round-1-single/6785605511?uo=4",
       "preview": {
-        "title": "#rainfall",
-        "durationMs": 61540,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/5d/c5/295dc59e-79ee-9b9c-8a99-fa2ddaebdd57/mzaf_9555774877837337485.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/5d/69/7f5d693a-0beb-8196-bbb9-2339abf9c8aa/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/rainfall/6774275189?i=6774275191&uo=4"
+        "title": "Skyte Round 1",
+        "durationMs": 104118,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/68/2a/89682a00-0304-9af8-4868-9028c55ecb1e/mzaf_10949826368803782279.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/15/e2/6815e269-9e4c-d81c-9c19-3e2e79ee4a46/199316667394_cover.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/skyte-round-1/6785605511?i=6785605513&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/skyte/1521974191?uo=4",
@@ -2841,18 +2811,12 @@
       "ja": "アメリカの実験的ポップ／ラップ・プロデューサー。2026年シングル「Sex」はクラブ・ドラム、歪んだシンセ、囁く声を圧縮し、独自のポップ・モンスターを作り続ける。"
     },
     "project": {
-      "title": "Sex",
+      "title": "Warhorse",
       "type": "single",
-      "date": "2026-09-18",
+      "date": "2026-09-21",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/sex-single/6812860802?uo=4",
-      "preview": {
-        "title": "Sex",
-        "durationMs": 166154,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/04/dc/e804dc22-b1cb-2b40-8418-b1cfffdb70ed/mzaf_4136040178956668278.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/b2/6a/b5b26adf-1a37-f505-690d-98d58fcb07df/26UM1IM19516.rgb.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/sex/6812860802?i=6812861111&uo=4"
-      }
+      "appleUrl": "https://music.apple.com/us/album/warhorse-single/6816292324?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/2hollis/1535847112?uo=4",
     "avatar": "https://cdn-images.dzcdn.net/images/artist/c1f95fb1a1767fda0d7fd7ed8b4cea70/500x500-000000-80-0-0.jpg"
@@ -2941,17 +2905,17 @@
       "ja": "上海UDGシーンの過小評価された名前。2026年シングル『愛如雨』とTaco、delphia!との共作で、プラグの漂流感をより広い視界へ運んだ。"
     },
     "project": {
-      "title": "想着跟你说",
+      "title": "D.S.P",
       "type": "single",
-      "date": "2026-04-05",
+      "date": "2026-05-05",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/%E6%83%B3%E7%9D%80%E8%B7%9F%E4%BD%A0%E8%AF%B4-single/1890697231?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/d-s-p-single/1895914314?uo=4",
       "preview": {
-        "title": "想着跟你说",
-        "durationMs": 160716,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/c1/15/38c1157e-365e-3352-3e81-1015b905eb01/mzaf_12464427059567755399.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/57/1d/0b571da8-82c2-2706-f477-1179662397c0/6937451267642.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/%E6%83%B3%E7%9D%80%E8%B7%9F%E4%BD%A0%E8%AF%B4/1890697231?i=1890697233&uo=4"
+        "title": "D.S.P",
+        "durationMs": 125538,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/b0/6b/feb06b86-1c8f-3729-ee2c-539ec2b37a0e/mzaf_8613336255038952757.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/d6/ef/6dd6efe0-23cb-5eec-7ac6-f072af9465a2/6937451276736.png/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/d-s-p/1895914314?i=6764784631&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/drogas/1272960890?uo=4",
@@ -3041,18 +3005,12 @@
       "ja": "台湾プラグンビ・シーンの最も鮮やかな名前のひとつ。Dazedに「台湾のプラグンビ・プリンセス」と呼ばれ、2026年「Grey Skies」は甘いメロディと歪んだ低音を撚り続ける。"
     },
     "project": {
-      "title": "DTLA RAT (feat. HUILAN)",
-      "type": "single",
-      "date": "2025-02-21",
-      "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/dtla-rat-feat-huilan-single/1797702573?uo=4",
-      "preview": {
-        "title": "DTLA RAT (feat. HUILAN)",
-        "durationMs": 126875,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/58/10/b6581091-dce7-edd4-7556-4269ca570f8b/mzaf_13379431697134212945.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/e4/17/fbe41766-6a89-27da-8415-052ed97cac09/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/dtla-rat-feat-huilan/1797702573?i=1797702574&uo=4"
-      }
+      "title": "LVL R",
+      "type": "album",
+      "date": "2025-04-11",
+      "tracks": 10,
+      "appleUrl": "https://music.apple.com/us/album/lvl-r/1807310220?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/r-r-riot/1686470173?uo=4",
     "avatar": "https://cdn-images.dzcdn.net/images/artist/6b67d150c279e7cadb65cec871f401aa/500x500-000000-80-0-0.jpg"
