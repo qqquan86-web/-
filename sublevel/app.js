@@ -88,7 +88,6 @@
     state.lang = getInitialLanguage();
     T = I18N[state.lang];
     initVolume();
-    initManifesto();
     applyLanguage();
     bindEvents();
     renderMethod();
@@ -110,8 +109,6 @@
     els.resultCount = document.getElementById("resultCount");
     els.resultSort = document.getElementById("resultSort");
     els.marqueeTrack = document.getElementById("marqueeTrack");
-    els.manifesto = document.getElementById("manifesto");
-    els.manifestoChoices = [...document.querySelectorAll("[data-manifesto-choice]")];
     els.yearChart = document.getElementById("yearChart");
     els.regionChart = document.getElementById("regionChart");
     els.methodDialog = document.getElementById("methodDialog");
@@ -164,33 +161,6 @@
     document.querySelectorAll("[data-sync-date]").forEach((node) => {
       node.textContent = `${T.lastSync}: ${updated}`;
     });
-  }
-
-  function initManifesto() {
-    if (!els.manifesto) return;
-    let saved = null;
-    try {
-      saved = window.localStorage.getItem("sublevel.manifesto.v2");
-    } catch (error) {
-      /* file:// */
-    }
-    const variant = ["a", "b", "c"].includes(saved) ? saved : "a";
-    setManifesto(variant);
-  }
-
-  function setManifesto(variant) {
-    if (!els.manifesto || !["a", "b", "c"].includes(variant)) return;
-    els.manifesto.dataset.manifesto = variant;
-    els.manifestoChoices.forEach((button) => {
-      const active = button.dataset.manifestoChoice === variant;
-      button.classList.toggle("is-active", active);
-      button.setAttribute("aria-pressed", String(active));
-    });
-    try {
-      window.localStorage.setItem("sublevel.manifesto.v2", variant);
-    } catch (error) {
-      /* no-op */
-    }
   }
 
   function initVolume() {
@@ -463,8 +433,11 @@
     const alias = shouldShowAlias(artist) ? artist.latin : "";
     const initialIsLong = Array.from(artist.initial).length > 1;
     const styleName = styleLabel(artist.styles[0]);
-    const previewAria = tf("previewAria", { name: localizedName, track: artist.project.preview.title });
-    const isCurrent = currentArtistId === artist.id && !audio.paused;
+    const projectPreview = artist.project.preview;
+    const previewAria = projectPreview
+      ? tf("previewAria", { name: localizedName, track: projectPreview.title })
+      : "";
+    const isCurrent = Boolean(projectPreview) && currentArtistId === artist.id && !audio.paused;
 
     return `
       <article class="artist-card" style="--card-accent:${region.color};--i:${Math.min(visibleIndex, 12)}">
@@ -473,11 +446,11 @@
           <div class="cover-meta"><span>NO. ${serial}</span><span>${escapeHTML(region.code)} · ${year}</span></div>
           <span class="cover-initial${initialIsLong ? " is-long" : ""}" aria-hidden="true">${escapeHTML(artist.initial)}</span>
           <span class="cover-project">${escapeHTML(artist.project.title)}</span>
-          <button type="button" class="preview-chip${isCurrent ? " is-playing" : ""}" data-preview="${artist.id}" aria-label="${escapeAttr(isCurrent ? T.pause30 : previewAria)}">
+          ${projectPreview ? `<button type="button" class="preview-chip${isCurrent ? " is-playing" : ""}" data-preview="${artist.id}" aria-label="${escapeAttr(isCurrent ? T.pause30 : previewAria)}">
             <svg class="icon-play" viewBox="0 0 8 10" aria-hidden="true"><path d="M0 0v10l8-5Z" fill="currentColor"/></svg>
             <svg class="icon-pause" viewBox="0 0 8 10" aria-hidden="true"><path d="M0 0h2.7v10H0zM5.3 0H8v10H5.3z" fill="currentColor"/></svg>
             <span>30s</span>
-          </button>
+          </button>` : ""}
         </div>
         <div class="card-body">
           <div class="card-heading">
@@ -517,7 +490,7 @@
       artist.bio[state.lang] || "",
       artist.bio.en,
       artist.project.title,
-      artist.project.preview.title
+      artist.project.preview?.title || ""
     ].join(" "));
   }
 
@@ -710,7 +683,8 @@
       ? tf("topTracksCount", { count: topTracks.length })
       : tf("topTracksCountMixed", { count: topTracks.length, playable: playableTracks });
     const platformLinks = buildPlatformLinks(artist);
-    const isCurrent = currentArtistId === artist.id && !audio.paused;
+    const isCurrent = Boolean(preview) && currentArtistId === artist.id && !audio.paused;
+    const projectVisual = preview?.artwork || artist.avatar || "";
     const trackCountLabel = T.projectMeta
       .replace("{type}", "")
       .replace("{count}", artist.project.tracks)
@@ -757,20 +731,20 @@
           <div class="drawer-label"><span>${escapeHTML(T.latestTitle)}</span><span>${escapeHTML(year)}</span></div>
           <div class="project-card">
             <div class="project-art">
-              <img src="${escapeAttr(preview.artwork)}" alt="${escapeAttr(tf("coverAlt", { track: preview.title }))}" loading="lazy" referrerpolicy="no-referrer">
+              ${projectVisual ? `<img src="${escapeAttr(projectVisual)}" alt="${escapeAttr(preview ? tf("coverAlt", { track: preview.title }) : artist.project.title)}" loading="lazy" referrerpolicy="no-referrer">` : ""}
               <span>${escapeHTML(artist.initial)}</span>
             </div>
             <div class="project-info">
               <p class="project-type">${escapeHTML(projectType)} · ${escapeHTML(date)} · ${escapeHTML(trackCountLabel)}</p>
               <p class="project-title">${escapeHTML(artist.project.title)}</p>
-              <p class="project-credit">${escapeHTML(preview.title)}</p>
+              <p class="project-credit">${escapeHTML(preview ? preview.title : "Latest release")}</p>
             </div>
             <a class="project-link" href="${escapeAttr(artist.project.appleUrl)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeAttr(T.openApple)}">
               <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 13 13 3M5 3h8v8" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>
             </a>
           </div>
 
-          <button type="button" class="drawer-play${isCurrent ? " is-playing" : ""}" data-preview="${artist.id}" aria-label="${escapeAttr(isCurrent ? T.pause30 : tf("previewAria", { name: localizedName, track: preview.title }))}">
+          ${preview ? `<button type="button" class="drawer-play${isCurrent ? " is-playing" : ""}" data-preview="${artist.id}" aria-label="${escapeAttr(isCurrent ? T.pause30 : tf("previewAria", { name: localizedName, track: preview.title }))}">
             <span class="drawer-play__left">
               <svg class="icon-play" viewBox="0 0 10 12" aria-hidden="true"><path d="M0 0v12l10-6Z" fill="currentColor"/></svg>
               <svg class="icon-pause" viewBox="0 0 10 12" aria-hidden="true"><path d="M0 0h3.4v12H0zM6.6 0H10v12H6.6z" fill="currentColor"/></svg>
@@ -781,7 +755,7 @@
           <div class="preview-caption">
             <span>${escapeHTML(preview.title)}</span>
             <span>${escapeHTML(T.previewNote)}</span>
-          </div>
+          </div>` : `<a class="text-link" href="${escapeAttr(artist.project.appleUrl)}" target="_blank" rel="noopener noreferrer">${escapeHTML(T.openApple)} ↗</a>`}
         </section>
 
         ${topTracks.length ? `
@@ -967,7 +941,7 @@
     if (!currentArtistId) return "https://music.apple.com/";
     if (currentPreviewAppleUrl) return currentPreviewAppleUrl;
     const artist = ARTIST_MAP[currentArtistId];
-    return artist ? (artist.project.preview.appleUrl || artist.project.appleUrl) : "https://music.apple.com/";
+    return artist ? (artist.project.preview?.appleUrl || artist.project.appleUrl || "https://music.apple.com/") : "https://music.apple.com/";
   }
 
   function updatePlayerTimeline() {
@@ -997,7 +971,7 @@
       const shouldShowPlaying = isCurrent && isReallyPlaying;
       button.classList.toggle("is-playing", shouldShowPlaying);
       const artist = ARTIST_MAP[artistId];
-      if (!artist) return;
+      if (!artist || !artist.project.preview) return;
       const previewLabel = tf("previewAria", {
         name: artist.name[state.lang] || artist.name.en,
         track: artist.project.preview.title
@@ -1140,10 +1114,6 @@
       state.style = event.target.value;
       state.animateCards = false;
       renderArtists();
-    });
-
-    els.manifestoChoices.forEach((button) => {
-      button.addEventListener("click", () => setManifesto(button.dataset.manifestoChoice));
     });
 
     els.resetFilters.addEventListener("click", resetFilters);
