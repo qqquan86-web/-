@@ -1,0 +1,408 @@
+<!doctype html>
+<html lang="zh-Hans" data-lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#f2efe7">
+  <meta name="description" content="地脉 SUBLEVEL / UDG · UG：60 位推动地下嘻哈向前的实验音乐人，横跨中国大陆、港台、韩国、日本、北美与欧洲。四语界面、13 种中英双语风格筛选、编辑热度、30 秒官方试听。">
+  <meta property="og:title" content="地脉 SUBLEVEL — 地下，不是一种风格。">
+  <meta property="og:description" content="UDG / UG 特辑：60 位仍在 plugg、rage、实验、俱乐部与超流行前沿工作的地下音乐人，6 个地区场景，4 种语言。">
+  <meta property="og:type" content="website">
+  <title>地脉 SUBLEVEL — 地下，不是一种风格。</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23141414'/%3E%3Cpath d='M14 40V24M25 48V16M36 40V24M47 34V30' stroke='%23d9ff43' stroke-width='5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css?v=20261031r">
+  <link rel="stylesheet" href="manifesto.css?v=20261031r">
+  <script src="data.js?v=20261031r" defer></script>
+  <script src="i18n.js?v=20261031r" defer></script>
+  <script src="top-tracks.js?v=20261031r" defer></script>
+  <script src="app.js?v=20261031r" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#archive" data-i18n="skipLink">跳至音乐人索引</a>
+  <div class="page-noise" aria-hidden="true"></div>
+
+  <header class="site-header" id="siteHeader">
+    <div class="header-inner">
+      <a class="brand" href="#top" aria-label="SUBLEVEL / 地脉">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 38 38" fill="none">
+            <rect x="1" y="1" width="36" height="36" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M8 23v-8M14 27V11M20 23v-8M26 21v-4M32 20v-2" stroke="currentColor" stroke-width="2.2"/>
+            <circle cx="32" cy="8" r="2.4" fill="#d9ff43"/>
+          </svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-cn">地脉</span>
+          <span class="brand-en">SUBLEVEL</span>
+        </span>
+      </a>
+
+      <div class="header-tools">
+        <span class="edition" aria-hidden="true">
+          <span>VOL. 02</span>
+          <span>UDG / UG</span>
+        </span>
+        <nav class="lang-nav" id="langSwitch" aria-label="Language / 语言">
+          <button type="button" class="lang-btn is-active" data-lang="zh" lang="zh" aria-pressed="true">中</button>
+          <button type="button" class="lang-btn" data-lang="en" lang="en" aria-pressed="false">EN</button>
+          <button type="button" class="lang-btn" data-lang="ko" lang="ko" aria-pressed="false">한</button>
+          <button type="button" class="lang-btn" data-lang="ja" lang="ja" aria-pressed="false">日</button>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">
+            <span class="live-dot" aria-hidden="true"></span>
+            <span data-i18n="heroEyebrow">UDG / UG 地下嘻哈档案</span>
+          </p>
+          <h1 id="heroTitle">
+            <span class="hero-line" data-i18n="heroTitleA">地下，</span>
+            <span class="hero-line hero-highlight" data-i18n="heroTitleB">正在发声。</span>
+          </h1>
+          <p class="hero-deck" data-i18n="heroDeck">UDG 是未定义世代，UG 是自主组织的地下现场。这里收录仍在实验、工业、俱乐部、超流行与跨类边缘工作的 60 位说唱者——不以讨论度作为地下通行证。</p>
+          <div class="hero-actions">
+            <a class="button button--dark" href="#archive">
+              <span data-i18n="ctaBrowse">浏览音乐人</span>
+              <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 13 13 3M5 3h8v8" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>
+            </a>
+            <button class="button button--text" type="button" data-open-method>
+              <span data-i18n="ctaMethod">UDG / UG 是什么</span>
+              <span aria-hidden="true">↗</span>
+            </button>
+          </div>
+        </div>
+
+        <aside class="receiver" aria-labelledby="receiverTitle">
+          <div class="receiver-head">
+            <span id="receiverTitle" data-i18n="radarTitle">场景信号 / SCENE RECEIVER</span>
+            <span class="receiver-status"><i aria-hidden="true"></i><span data-i18n="live">LIVE</span></span>
+          </div>
+
+          <div class="radar">
+            <svg class="radar-rings" viewBox="0 0 400 400" aria-hidden="true">
+              <g fill="none" stroke="currentColor" stroke-opacity=".22">
+                <circle cx="200" cy="200" r="58"/>
+                <circle cx="200" cy="200" r="106"/>
+                <circle cx="200" cy="200" r="154"/>
+                <circle cx="200" cy="200" r="188" stroke-opacity=".12" stroke-dasharray="2 7"/>
+                <path d="M200 10v380M10 200h380" stroke-opacity=".14"/>
+                <path d="M60 60 340 340M340 60 60 340" stroke-opacity=".07"/>
+              </g>
+              <g stroke="currentColor" stroke-opacity=".45">
+                <path d="M196 14h8M196 386h8M14 196v8M386 196v8"/>
+              </g>
+            </svg>
+            <div class="radar-sweep" aria-hidden="true"></div>
+            <div class="radar-core">
+              <strong data-total-artists>60</strong>
+              <span data-i18n="radarVoices">个声音</span>
+              <small>UDG / UG</small>
+            </div>
+            <span class="radar-node radar-node--cn" aria-hidden="true"><i></i><b>CN</b><em data-region-count="cn">22</em></span>
+            <span class="radar-node radar-node--hktw" aria-hidden="true"><i></i><b>HK/TW</b><em data-region-count="hktw">04</em></span>
+            <span class="radar-node radar-node--kr" aria-hidden="true"><i></i><b>KR</b><em data-region-count="kr">15</em></span>
+            <span class="radar-node radar-node--jp" aria-hidden="true"><i></i><b>JP</b><em data-region-count="jp">05</em></span>
+            <span class="radar-node radar-node--na" aria-hidden="true"><i></i><b>NA</b><em data-region-count="na">09</em></span>
+            <span class="radar-node radar-node--eu" aria-hidden="true"><i></i><b>EU</b><em data-region-count="eu">05</em></span>
+          </div>
+
+          <div class="receiver-foot">
+            <div class="eq" aria-hidden="true">
+              <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+            </div>
+            <p>
+              <span data-i18n="receiverLabel">2026 年仍有新作</span>
+              <strong data-new-count>41</strong>
+              <span data-i18n="receiverUnit">位</span>
+            </p>
+          </div>
+        </aside>
+      </div>
+
+      <dl class="hero-stats" aria-label="Archive statistics" data-i18n-aria="statsAria">
+        <div class="stat">
+          <dt data-i18n="statArtists">位音乐人</dt>
+          <dd data-total-artists>60</dd>
+        </div>
+        <div class="stat">
+          <dt data-i18n="statScenes">个地区场景</dt>
+          <dd data-total-regions>06</dd>
+        </div>
+        <div class="stat">
+          <dt data-i18n="statRecent">位在 2025—26 有新作</dt>
+          <dd data-recent-count>50</dd>
+        </div>
+        <div class="stat stat--accent">
+          <dt data-i18n="statLanguages">种界面语言</dt>
+          <dd>04</dd>
+        </div>
+      </dl>
+    </section>
+
+    <div class="marquee" aria-hidden="true" data-marquee>
+      <div class="marquee-track" id="marqueeTrack"></div>
+    </div>
+
+    <section class="archive" id="archive" aria-labelledby="archiveTitle">
+      <div class="section-heading">
+        <div class="section-heading__main">
+          <p class="section-kicker"><span>01</span><span data-i18n="archiveKicker">INDEX</span></p>
+          <h2 id="archiveTitle" data-i18n="archiveTitle">仍在往前的人</h2>
+        </div>
+        <p class="section-lede" data-i18n="archiveLede">不按资历或讨论度选人。只收仍在自主发行、仍在试错的实验地下声音。</p>
+      </div>
+
+      <div class="archive-toolbar">
+        <div class="toolbar-main">
+          <label class="search-box" for="searchInput">
+            <span class="sr-only" data-i18n="searchLabel">搜索</span>
+            <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.5"/>
+              <path d="m13 13 4 4" stroke="currentColor" stroke-width="1.5"/>
+            </svg>
+            <input id="searchInput" type="search" autocomplete="off" spellcheck="false" placeholder="搜索姓名、城市、风格…" data-i18n-placeholder="searchPlaceholder">
+            <kbd aria-hidden="true">/</kbd>
+          </label>
+
+          <div class="toolbar-controls">
+            <div class="control-box">
+              <span class="sort-label" data-i18n="styleLabel">风格</span>
+              <div class="select-wrap">
+                <select id="styleSelect" aria-label="Style"></select>
+                <svg viewBox="0 0 12 8" fill="none" aria-hidden="true"><path d="m1 1 5 5 5-5" stroke="currentColor" stroke-width="1.5"/></svg>
+              </div>
+            </div>
+            <div class="control-box">
+              <span class="sort-label" data-i18n="sortLabel">排序</span>
+              <div class="select-wrap">
+                <select id="sortSelect" aria-label="Sort">
+                  <option value="heat" data-i18n="sortHeat">编辑热度</option>
+                  <option value="newest" data-i18n="sortNewest">最新发行</option>
+                  <option value="name" data-i18n="sortName">名称 A–Z</option>
+                </select>
+                <svg viewBox="0 0 12 8" fill="none" aria-hidden="true"><path d="m1 1 5 5 5-5" stroke="currentColor" stroke-width="1.5"/></svg>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-row">
+          <span class="filter-label" data-i18n="filterLabel">按地区</span>
+          <div class="region-chips" id="regionChips" role="group" aria-label="Filter by region"></div>
+        </div>
+      </div>
+
+      <div class="result-meta">
+        <p id="resultCount" role="status" aria-live="polite"></p>
+        <p id="resultSort" class="result-sort"></p>
+      </div>
+
+      <div class="artist-grid" id="artistGrid"></div>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <p class="empty-mark" aria-hidden="true">∅</p>
+        <h3 data-i18n="emptyTitle">没有找到这个声音</h3>
+        <p data-i18n="emptyBody">试试其他关键词，或清除地区与风格筛选。</p>
+        <button type="button" class="button button--dark" id="resetFilters" data-i18n="emptyReset">清除筛选</button>
+      </div>
+    </section>
+
+    <section class="manifesto" id="manifesto" data-manifesto="a" aria-labelledby="manifestoTitle">
+      <div class="manifesto-switcher" role="group" data-i18n-aria="manifestoAria">
+        <button type="button" class="manifesto-choice is-active" data-manifesto-choice="a" aria-pressed="true">A <span>ACID</span></button>
+        <button type="button" class="manifesto-choice" data-manifesto-choice="b" aria-pressed="false">B <span>NOIR</span></button>
+        <button type="button" class="manifesto-choice" data-manifesto-choice="c" aria-pressed="false">C <span>COLLAGE</span></button>
+      </div>
+      <div class="manifesto-stage">
+        <h2 class="manifesto-line" id="manifestoTitle" data-i18n="manifestoLine">地下不是一种风格，是一场持续的偏移。</h2>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-top">
+      <a class="brand brand--footer" href="#top" aria-label="SUBLEVEL / 地脉">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 38 38" fill="none">
+            <rect x="1" y="1" width="36" height="36" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M8 23v-8M14 27V11M20 23v-8M26 21v-4M32 20v-2" stroke="currentColor" stroke-width="2.2"/>
+            <circle cx="32" cy="8" r="2.4" fill="#d9ff43"/>
+          </svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-cn">地脉</span>
+          <span class="brand-en">SUBLEVEL</span>
+        </span>
+      </a>
+      <p class="footer-tagline" data-i18n="footerTagline">听见还没被定义的声音。</p>
+    </div>
+
+    <div class="footer-grid">
+      <div>
+        <h3 data-i18n="footerScopeTitle">收录范围</h3>
+        <p data-i18n="footerScopeBody">发行年份不限；收录仍活跃于自主发行与实验场景的地下音乐人。60 位并非全员名单，而是本刊的策展样本。</p>
+      </div>
+      <div>
+        <h3 data-i18n="footerDataTitle">数据与试听</h3>
+        <p data-i18n="footerDataBody">发行元数据、平台头像与 30 秒试听来自 Apple Music、Deezer、NetEase 公开目录。其余平台为官方搜索直达链接。</p>
+        <p class="footer-sync" data-sync-date>最后同步：2026.11.01</p>
+      </div>
+      <div>
+        <h3 data-i18n="footerRightsTitle">版权说明</h3>
+        <p data-i18n="footerRightsBody">作品版权归音乐人及厂牌所有。本站不托管音源，仅嵌入官方试听片段；完整播放请前往你常用的音乐平台。</p>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>© 2026 SUBLEVEL / 地脉</p>
+      <p data-i18n="footerMade">A non-commercial scene archive. Made for the underground, not the algorithm.</p>
+      <button type="button" class="text-link text-link--footer" data-open-method>
+        <span data-i18n="footerMethod">方法与说明</span>
+        <span aria-hidden="true">↗</span>
+      </button>
+    </div>
+    <div class="footer-mark" aria-hidden="true">SUBLEVEL</div>
+  </footer>
+
+  <section class="player" id="player" aria-label="30-second preview player" hidden>
+    <div class="player-progress">
+      <input id="playerSeek" type="range" min="0" max="1000" value="0" step="1" aria-label="Seek">
+      <span class="player-progress-fill" id="playerProgressFill" aria-hidden="true"></span>
+    </div>
+    <div class="player-inner">
+      <div class="player-art">
+        <img id="playerArt" alt="" width="48" height="48" loading="lazy">
+        <span class="player-art-fallback" id="playerArtFallback" aria-hidden="true"></span>
+      </div>
+      <div class="player-copy">
+        <p class="player-kicker">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span data-i18n="playerKicker">APPLE MUSIC · 官方 30 秒试听</span>
+        </p>
+        <p class="player-meta">
+          <strong id="playerTrack">—</strong>
+          <span id="playerArtist">—</span>
+        </p>
+      </div>
+      <div class="player-actions">
+        <span class="player-time" id="playerTime">0:00 / 0:30</span>
+        <button type="button" class="player-play" id="playerPlay" aria-label="Play preview">
+          <svg class="icon-play" viewBox="0 0 20 20" aria-hidden="true"><path d="M5 2.8 17 10 5 17.2Z" fill="currentColor"/></svg>
+          <svg class="icon-pause" viewBox="0 0 20 20" aria-hidden="true"><path d="M4 3h4.5v14H4zM11.5 3H16v14h-4.5z" fill="currentColor"/></svg>
+          <span class="player-spinner" aria-hidden="true"></span>
+        </button>
+        <a class="player-open" id="playerOpen" href="#" target="_blank" rel="noopener noreferrer" data-i18n-aria="playerOpen" aria-label="Open in Apple Music">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 13 13 3M5 3h8v8" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>
+        </a>
+        <button type="button" class="player-close" id="playerClose" data-i18n-aria="closePlayer" aria-label="Close player">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><path d="m2 2 12 12M14 2 2 14" stroke="currentColor" stroke-width="1.5"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="player-volume">
+      <button type="button" class="volume-mute" id="playerMute" aria-label="Mute">
+        <svg class="icon-volume" viewBox="0 0 20 20" aria-hidden="true">
+          <path d="M3 8v4h3l4 3V5L6 8H3Z" fill="currentColor"/>
+          <path d="M13 7.5a3.5 3.5 0 0 1 0 5M15.5 5a7 7 0 0 1 0 10" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+        </svg>
+        <svg class="icon-muted" viewBox="0 0 20 20" aria-hidden="true">
+          <path d="M3 8v4h3l4 3V5L6 8H3Z" fill="currentColor"/>
+          <path d="m13 8 4 4M17 8l-4 4" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <label class="volume-label" for="playerVolume" data-i18n="volumeLabel">音量</label>
+      <input id="playerVolume" type="range" min="0" max="1" step="0.01" value="0.5" aria-label="Volume">
+      <span class="volume-value" id="playerVolumeValue" aria-hidden="true">50%</span>
+    </div>
+  </section>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden>
+    <p id="toastText"></p>
+    <a id="toastLink" href="#" target="_blank" rel="noopener noreferrer" hidden></a>
+  </div>
+
+  <dialog class="method-dialog" id="methodDialog" aria-labelledby="methodTitle">
+    <div class="method-inner">
+      <div class="modal-head">
+        <p class="modal-kicker">METHOD / 03</p>
+        <button type="button" class="icon-close" id="methodClose" data-close-method data-i18n-aria="close" aria-label="Close">
+          <svg viewBox="0 0 18 18" aria-hidden="true"><path d="m2 2 14 14M16 2 2 16" stroke="currentColor" stroke-width="1.5"/></svg>
+        </button>
+      </div>
+      <h2 id="methodTitle" data-i18n="methodTitle">地下不是一种风格。</h2>
+      <p class="modal-lede" data-i18n="methodIntro">这是一份 UDG / UG 特辑，不是按年代或资历排座次的名单。它只关心仍在自主发行、仍在实验、仍拒绝被主流模板收编的声音。</p>
+      <div class="concept-grid">
+        <article class="concept-card">
+          <span class="concept-tag">UDG</span>
+          <h3>UnDefined Generation</h3>
+          <p data-i18n="conceptUdg">未定义世代：由网易云音乐 UDG 说唱合辑企划推动的中文地下新浪潮。拒绝工业模板，允许粗糙、跨界和未完成。</p>
+        </article>
+        <article class="concept-card">
+          <span class="concept-tag">UG</span>
+          <h3>Underground</h3>
+          <p data-i18n="conceptUg">地下：一种自主发行、场景内循环、非主流工业路径。它不是某一种曲风，也不是“越少人听越正宗”的等级。</p>
+        </article>
+      </div>
+      <p class="concept-cut" data-i18n="conceptCut">本站的筛选标准只有三条：仍在自主发行；仍在持续推进声音边界；没有被主流工业体系吸收。分不清具体风格时，归入“Hip-Hop”大类。</p>
+      <p class="style-note" data-i18n="methodStyleNote">风格筛选使用“英文原名/中文名称”的并列写法，例如 Plugg/插头音乐、Rage/狂怒说唱。</p>
+      <div class="weights-heading">
+        <span data-i18n="methodHeatKicker">HOW HEAT WORKS / 热度怎么算</span>
+        <span data-i18n="methodHeatNote">编辑指数 · 非播放量</span>
+      </div>
+      <div class="weights" id="methodWeights"></div>
+      <div class="method-sources">
+        <p data-i18n="methodSourcesTitle">参考来源 / SOURCES</p>
+        <a href="https://www.dazeddigital.com/music/article/70766/1/what-does-it-mean-to-be-underground-uk-ug-esdeekid-fake-mink" target="_blank" rel="noopener noreferrer">Dazed — What does it mean to be ‘underground’ in 2026? ↗</a>
+        <a href="https://www.163.com/dy/article/L1BF28NJ05178FFG.html?spss=adap_pc" target="_blank" rel="noopener noreferrer">网易云音乐 — UDG 说唱合辑《未定义世代》 ↗</a>
+        <a href="https://en.wikipedia.org/wiki/UK_underground_rap" target="_blank" rel="noopener noreferrer">UK underground rap — scene context ↗</a>
+      </div>
+      <div class="method-sources">
+        <p data-i18n="methodRosterSourcesTitle">UDG / CYPHER 来源</p>
+        <p class="source-note" data-i18n="methodRosterNote">增补以 UDG联合（Undergr00ves）的《UDG 新歌速递》、UDG CYPHER 2026 与各国 Freshman Cypher 为主，Klay137 / beJADE_ 保留为交叉线索；只保留能确认属于该场景的名字。</p>
+        <a href="https://space.bilibili.com/168667065" target="_blank" rel="noopener noreferrer">UDG联合 / Undergr00ves — 官方 Bilibili 空间 ↗</a>
+        <a href="https://www.youtube.com/watch?v=a7NRmObDfxs" target="_blank" rel="noopener noreferrer">UDG CYPHER 2026 — FRESHMAN SHOW / TOP 10 CHINA ↗</a>
+        <a href="https://www.bilibili.com/video/BV1suPyzfEgC/" target="_blank" rel="noopener noreferrer">UDG FRESHMAN CYPHER 2026 — KR（完整阵容） ↗</a>
+        <a href="https://www.bilibili.com/video/BV1iNUvB2EWG/" target="_blank" rel="noopener noreferrer">UDG FRESHMAN CYPHER 2026 — JPN ↗</a>
+        <a href="https://www.bilibili.com/video/BV1jNd5BrEax/" target="_blank" rel="noopener noreferrer">bbs ASIA UNDERGROUND CYPHER 2026 ↗</a>
+        <a href="https://www.bilibili.com/video/BV1xDAbzQESJ/" target="_blank" rel="noopener noreferrer">UDG CYPHER CHILE 2026 — 各国 cypher 参考 ↗</a>
+        <a href="https://www.bilibili.com/video/BV1kPgu6oEUw/" target="_blank" rel="noopener noreferrer">UDG 新歌速递｜Pz’ — Dis Ain’t Right ↗</a>
+      </div>
+      <div class="method-sources">
+        <p data-i18n="methodLegacySourcesTitle">交叉线索 / CROSS-CHECK</p>
+        <a href="https://www.bilibili.com/video/BV1ghx76KEep/" target="_blank" rel="noopener noreferrer">Klay137 — 近期中文说唱小型发行速评 ↗</a>
+        <a href="https://www.bilibili.com/video/BV1yKp967EKh/" target="_blank" rel="noopener noreferrer">beJADE_ — 2026 KHH UDG CYPHER 最喜欢的几位 ↗</a>
+        <a href="https://www.bilibili.com/video/BV15KzuBmEiq/" target="_blank" rel="noopener noreferrer">OnAirMusic — 24 首 UDG 说唱 mix（含 tracklist） ↗</a>
+      </div>
+      <div class="method-sources">
+        <p data-i18n="methodStyleSourcesTitle">风格视频讲解 / STYLE NOTES</p>
+        <a href="https://www.bilibili.com/video/BV1i3NS62Emu/" target="_blank" rel="noopener noreferrer">Plugg / Pluggnb — Branvon-布兰冯 ↗</a>
+        <a href="https://www.bilibili.com/video/BV1oXhd6AEnL/" target="_blank" rel="noopener noreferrer">Rage — Branvon-布兰冯 ↗</a>
+        <a href="https://www.bilibili.com/video/BV1CeNzeDEM4/" target="_blank" rel="noopener noreferrer">Jerk — 权威音乐秦始皇 ↗</a>
+        <a href="https://www.bilibili.com/video/BV1D1421S7Z6/" target="_blank" rel="noopener noreferrer">HexD — 楊牧俑 ↗</a>
+        <a href="https://www.bilibili.com/video/BV1Zz421q79x/" target="_blank" rel="noopener noreferrer">Digicore — 楊牧俑 ↗</a>
+      </div>
+      <div class="modal-footnote">
+        <p data-i18n="methodFootnote">发行年份不限。发行记录来自公开目录与官方页面；试听为 Apple Music 官方 30 秒预览。热度、收录与排序均为编辑判断，不构成任何销量或流媒体排名。</p>
+        <p class="modal-updated" data-sync-date>最后同步：2026.11.01</p>
+      </div>
+      <div class="modal-actions">
+        <button type="button" class="button button--dark" data-close-method data-i18n="methodClose">知道了</button>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="artist-drawer" id="artistDialog" aria-labelledby="drawerName">
+    <div class="drawer-scroll" id="drawerContent"></div>
+  </dialog>
+
+  <noscript>
+    <p style="padding:2rem;text-align:center;">This archive needs JavaScript to render the artist index. 本站需要启用 JavaScript 才能浏览音乐人索引。</p>
+  </noscript>
+</body>
+</html>
