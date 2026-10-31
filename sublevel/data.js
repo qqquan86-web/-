@@ -1943,17 +1943,17 @@
       "ja": "UDG CYPHER 2026のオープナー。2025年作『幽默与笑话』と2026年作『商业与玩法』で、今回のUDGサイクルで最も行単位で分析される名前のひとつになった。"
     },
     "project": {
-      "title": "幽默与笑话",
-      "type": "album",
-      "date": "2025-04-03",
-      "tracks": 9,
-      "appleUrl": "https://music.apple.com/us/album/%E5%B9%BD%E9%BB%98%E4%B8%8E%E7%AC%91%E8%AF%9D/1863916313?uo=4",
+      "title": "City Life Kills",
+      "type": "single",
+      "date": "2022-11-18",
+      "tracks": 2,
+      "appleUrl": "https://music.apple.com/us/album/city-life-kills-single/1653317091?uo=4",
       "preview": {
-        "title": "中国杰克",
-        "durationMs": 167574,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/4a/bd/cc4abddc-8695-1af7-9f64-e5886476a70d/mzaf_7676463171485769189.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/7a/67/197a6781-7280-9797-98ad-22d26a02ea39/17472.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/%E4%B8%AD%E5%9B%BD%E6%9D%B0%E5%85%8B/1863916313?i=1863916314&uo=4"
+        "title": "City Life Kills (Extended Version)",
+        "durationMs": 168275,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f2/2f/7b/f22f7b02-05b6-8845-0f55-cd8d066592bd/mzaf_374369565836365325.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/a8/fa/e3a8fa38-b9a3-674c-d6dc-2a00cd5a365d/a762d5be-9ef4-47cf-aee9-1b19d4298309.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/city-life-kills-extended-version/1653317091?i=1653317104&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/jesse-margiela/1652274326?uo=4",
