@@ -684,7 +684,10 @@
       : tf("topTracksCountMixed", { count: topTracks.length, playable: playableTracks });
     const platformLinks = buildPlatformLinks(artist);
     const isCurrent = Boolean(preview) && currentArtistId === artist.id && !audio.paused;
-    const projectVisual = preview?.artwork || artist.avatar || "";
+    const projectVisual = artist.avatar || preview?.artwork || "";
+    const projectVisualAlt = artist.avatar
+      ? `${localizedName} — platform avatar`
+      : (preview ? tf("coverAlt", { track: preview.title }) : artist.project.title);
     const trackCountLabel = T.projectMeta
       .replace("{type}", "")
       .replace("{count}", artist.project.tracks)
@@ -731,7 +734,7 @@
           <div class="drawer-label"><span>${escapeHTML(T.latestTitle)}</span><span>${escapeHTML(year)}</span></div>
           <div class="project-card">
             <div class="project-art">
-              ${projectVisual ? `<img src="${escapeAttr(projectVisual)}" alt="${escapeAttr(preview ? tf("coverAlt", { track: preview.title }) : artist.project.title)}" loading="lazy" referrerpolicy="no-referrer">` : ""}
+              ${projectVisual ? `<img src="${escapeAttr(projectVisual)}" alt="${escapeAttr(projectVisualAlt)}" loading="lazy" referrerpolicy="no-referrer">` : ""}
               <span>${escapeHTML(artist.initial)}</span>
             </div>
             <div class="project-info">
