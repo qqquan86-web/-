@@ -18,10 +18,10 @@ UDG / UG 仍然指自主发行、场景内循环、非主流工业路径。它�
 
 - **60 位音乐人 / 6 个地区场景**：中国大陆 22、港台 4、韩国 15、日本 5、北美 9、欧洲 5。
 - **13 种中英双语风格**：筛选与卡片使用“英文原名/中文名称”，例如 Plugg/插头音乐、Rage/狂怒说唱。
-- **Top Tracks**：每位音乐人 10 首曲目；其中 594 首有 Apple Music 官方 30 秒试听，6 首网易云专属曲目提供 NetEase 外链。
+- **Top Tracks**：每位音乐人 10 首曲目；Apple 曲目提供官方 30 秒试听；少数网易云专属曲目提供 NetEase 外链。
 - **平台头像**：试听播放器封面改为音乐平台头像，而非专辑封面。
 - **发布校对**：全部音乐人的近期发行已重新核对，最后同步 **2026.11.01**。
-- **底部标语**：删除原“发行切片”图表区，只保留标语，并提供 A / B / C 三套视觉方案切换。
+- **底部标语**：删除原“发行切片”图表区，只保留标语与 A 方案视觉。
 - **响度**：界面默认音量仍为 50%，但输出增益固定为 0.5，实际响度约为原来的 **一半（−6 dB）**。
 - **完整作品外链**：Spotify、Apple Music、YouTube Music、网易云音乐、QQ 音乐、KKBOX、Melon、Bugs、LINE MUSIC、Amazon Music、SoundCloud、Bandcamp。
 - **四语界面**：中文、English、한국어、日本語。
@@ -43,21 +43,13 @@ UDG / UG 仍然指自主发行、场景内循环、非主流工业路径。它�
 
 **Plugg/插头音乐、Pluggnb/插头R&B、Rage/狂怒说唱、Jerk/杰克说唱、Sigilkore/符文核、Digicore/数字核、Hyperpop/超流行、Cloud Rap/云端说唱、Experimental Hip-Hop/实验嘻哈、Industrial Hip-Hop/工业说唱、Alternative Hip-Hop/另类说唱、Emo Rap/情绪说唱、Hip-Hop/嘻哈音乐。**
 
-## 底部三套标语方案
+## 底部标语
 
 “发行切片”整段已删除，只保留 **“地下不是一种风格，是一场持续的偏移。”**
 
-页面底部提供三套可切换的视觉方案：
+页面底部只保留 A 方案：酸性黄大色块、圆形雷达底纹、黑色特粗斜体。B、C 两个可选项已删除。
 
-- **A / ACID**：保留 A 的酸性黄大色块与圆形雷达底纹，字体改为 B 的描边/错位投影处理。
-- **B / NOIR**：黑底描边大字 + 酸性黄错位阴影 + 同心信号环。
-- **C / COLLAGE**：珊瑚色、淡紫色纸张拼贴 + 点阵印刷 + 轻微旋转。
-
-![方案 A](preview/manifesto-a.png)
-
-![方案 B](preview/manifesto-b.png)
-
-![方案 C](preview/manifesto-c.png)
+![底部标语](preview/manifesto-a.png)
 
 ## 每日自动更新（GitHub Pages / Actions）
 
@@ -105,10 +97,10 @@ python -m http.server 8123
 
 ## 数据、头像与同步
 
-- **发行年份不限**。最新项目年份分布：2020 年 1 位、2021 年 2 位、2022 年 2 位、2024 年 5 位、2025 年 9 位、2026 年 41 位。
+- **发行年份不限**。最新项目年份分布：2021 年 1 位、2022 年 1 位、2023 年 1 位、2024 年 4 位、2025 年 8 位、2026 年 45 位。
 - 发行元数据、30 秒试听来自 Apple Music；平台头像来自 Deezer / NetEase 公开目录；最后同步 **2026-11-01**。
-- **Top Tracks 600 首**：58 位各 10 首 Apple 30 秒；狂兆北 10 首中 6 首为 Apple 30 秒、4 首为 NetEase 外链；Molly Yam 10 首中 8 首为 Apple 30 秒、2 首为 NetEase 外链。
-- 页面里的 **A/B/C 标语方案** 会记忆到 `localStorage`。
+- **Top Tracks 600 首**，每位音乐人 10 首；Apple 曲目可站内试听 30 秒，少量网易云专属曲目提供 NetEase 外链。
+- 页面只保留 A 方案，不再有 B/C 切换。
 - **GitHub Pages** 使用仓库根目录的 Actions 工作流每日同步；本地 `python -m http.server` 不会自动运行计划任务，需要自行用任务计划程序或 cron 触发脚本。
 - 各平台没有统一、公开的歌曲点赞 API，Top Tracks 综合平台公开热度与可获取信号排序，不是伪造的实时点赞榜。
 - 本站不托管音源，完整作品版权归音乐人及厂牌所有。
@@ -127,7 +119,7 @@ python -m http.server 8123
 sublevel/
 ├─ index.html        页面结构与语义骨架
 ├─ styles.css        视觉系统、风格控件、Top Tracks、音量控件与响应式布局
-├─ manifesto.css     底部标语 A/B/C 三套视觉方案
+├─ manifesto.css     底部 A 方案标语视觉
 ├─ data.js           60 位音乐人、13 种风格、地区、平台、头像与发行信息
 ├─ top-tracks.js     60 位音乐人的 Top Tracks 与 30 秒试听数据
 ├─ i18n.js           中 / 英 / 韩 / 日四语界面文案
