@@ -716,6 +716,26 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "jvcki-wai": [
     {
+      "title": "EZ",
+      "album": "Street Woman Fighter2 (SWF2) Crew Songs",
+      "year": "2023",
+      "durationMs": 165307,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/cf/d0/cbcfd025-f4d0-5a0a-c531-ef8564fd4bc2/mzaf_16381191228824976109.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/b1/6d/deb16d51-aa00-9e31-2adc-89361e1c2fba/888272121629_Cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/ez/1702983996?i=1702984163&uo=4",
+      "artistName": "Jvcki Wai"
+    },
+    {
+      "title": "Enchanted Propaganda",
+      "album": "Enchanted Propaganda",
+      "year": "2018",
+      "durationMs": 166154,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/10/e5/b910e577-7f04-10ba-8a81-c0c9aada39a8/mzaf_10044187118326728944.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/45/a0/4845a0ee-01c0-8fde-b1ed-b23ce828f0a5/cover-Jvcki_Wai.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/enchanted-propaganda/1408569383?i=1408569663&uo=4",
+      "artistName": "Jvcki Wai"
+    },
+    {
       "title": "Neoclear",
       "album": "Enchanted Propaganda",
       "year": "2018",
@@ -736,16 +756,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Jvcki Wai"
     },
     {
-      "title": "Enchanted Propaganda",
-      "album": "Enchanted Propaganda",
-      "year": "2018",
-      "durationMs": 166154,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/10/e5/b910e577-7f04-10ba-8a81-c0c9aada39a8/mzaf_10044187118326728944.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/45/a0/4845a0ee-01c0-8fde-b1ed-b23ce828f0a5/cover-Jvcki_Wai.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/enchanted-propaganda/1408569383?i=1408569663&uo=4",
-      "artistName": "Jvcki Wai"
-    },
-    {
       "title": "Hyperreal",
       "album": "Im",
       "year": "2018",
@@ -754,16 +764,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/c2/34/fac23483-5866-186f-38a0-cad6017e57f1/cover-_Indigo_Music.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/hyperreal/1403326478?i=1403326797&uo=4",
       "artistName": "Jvcki Wai, Kid Milli & Swings"
-    },
-    {
-      "title": "EZ",
-      "album": "Street Woman Fighter2 (SWF2) Crew Songs",
-      "year": "2023",
-      "durationMs": 165307,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/cf/d0/cbcfd025-f4d0-5a0a-c531-ef8564fd4bc2/mzaf_16381191228824976109.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/b1/6d/deb16d51-aa00-9e31-2adc-89361e1c2fba/888272121629_Cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/ez/1702983996?i=1702984163&uo=4",
-      "artistName": "Jvcki Wai"
     },
     {
       "title": "Dding",
@@ -1338,16 +1338,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Backxwash"
     },
     {
-      "title": "Headrush",
-      "album": "107.5 Darkstar Radio",
-      "year": "2023",
-      "durationMs": 238267,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/80/69/f7806944-2562-fbb6-2c06-d9ac906eb11f/mzaf_15037976353590167279.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/c9/2f/56c92f80-d235-d0ad-1a80-4a33e2db29fd/0000906507887.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/headrush/1707392050?i=1707392053&uo=4",
-      "artistName": "Backxwash & BADPANNINI"
-    },
-    {
       "title": "Love After Death",
       "album": "Only Dust Remains",
       "year": "2025",
@@ -1366,6 +1356,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/f4/04/7ef4040b-2493-3244-6945-233785eb6319/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/kutali-feat-vaelastrasz/1651623486?i=1651623487&uo=4",
       "artistName": "Backxwash"
+    },
+    {
+      "title": "Headrush",
+      "album": "107.5 Darkstar Radio",
+      "year": "2023",
+      "durationMs": 238267,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/80/69/f7806944-2562-fbb6-2c06-d9ac906eb11f/mzaf_15037976353590167279.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/c9/2f/56c92f80-d235-d0ad-1a80-4a33e2db29fd/0000906507887.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/headrush/1707392050?i=1707392053&uo=4",
+      "artistName": "Backxwash & BADPANNINI"
     },
     {
       "title": "GNOSTIC FLESH/MORTAL HELL",
@@ -1552,16 +1552,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Blackhaine"
     },
     {
-      "title": "Armour Freestyle (feat. Moseley)",
-      "album": "Armour II - EP",
-      "year": "2022",
-      "durationMs": 121600,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/14/32/e6/1432e66e-3daf-3ba3-e05a-e84bdee5d7c2/mzaf_6772670197755602681.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/1c/60/511c608d-e4f5-e472-fc0a-89de2e398808/dj.dlehrtku.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/armour-freestyle-feat-moseley/1619129828?i=1619130411&uo=4",
-      "artistName": "Blackhaine"
-    },
-    {
       "title": "Let Me Know",
       "album": "And Salford Falls Apart - EP",
       "year": "2021",
@@ -1592,6 +1582,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Blackhaine"
     },
     {
+      "title": "Armour Freestyle (feat. Moseley)",
+      "album": "Armour II - EP",
+      "year": "2022",
+      "durationMs": 121600,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/14/32/e6/1432e66e-3daf-3ba3-e05a-e84bdee5d7c2/mzaf_6772670197755602681.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/1c/60/511c608d-e4f5-e472-fc0a-89de2e398808/dj.dlehrtku.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/armour-freestyle-feat-moseley/1619129828?i=1619130411&uo=4",
+      "artistName": "Blackhaine"
+    },
+    {
       "title": "Waiting Room (feat. kinseyLloyd)",
       "album": "Armour II - EP",
       "year": "2022",
@@ -1599,16 +1599,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/dc/c7/43dcc7cb-f540-57a2-fe8b-99854a79ffe7/mzaf_14685577184677409024.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/1c/60/511c608d-e4f5-e472-fc0a-89de2e398808/dj.dlehrtku.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/waiting-room-feat-kinseylloyd/1619129828?i=1619130577&uo=4",
-      "artistName": "Blackhaine"
-    },
-    {
-      "title": "Faith (feat. Rainy Miller)",
-      "album": "Armour II - EP",
-      "year": "2022",
-      "durationMs": 104112,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/aa/3b/97/aa3b9709-6018-adf7-cd55-52c24be1e45a/mzaf_4699210729779078142.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/1c/60/511c608d-e4f5-e472-fc0a-89de2e398808/dj.dlehrtku.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/faith-feat-rainy-miller/1619129828?i=1619130278&uo=4",
       "artistName": "Blackhaine"
     },
     {
@@ -1622,14 +1612,24 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Blackhaine & Richie Culver"
     },
     {
-      "title": "Pavements (feat. Rainy Miller)",
+      "title": "Faith (feat. Rainy Miller)",
       "album": "Armour II - EP",
       "year": "2022",
-      "durationMs": 344889,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/51/2a/b6/512ab6ef-0b47-eeb3-182b-6088ae46ecc8/mzaf_7517931235052923906.plus.aac.p.m4a",
+      "durationMs": 104112,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/aa/3b/97/aa3b9709-6018-adf7-cd55-52c24be1e45a/mzaf_4699210729779078142.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/1c/60/511c608d-e4f5-e472-fc0a-89de2e398808/dj.dlehrtku.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/pavements-feat-rainy-miller/1619129828?i=1619130135&uo=4",
+      "appleUrl": "https://music.apple.com/us/album/faith-feat-rainy-miller/1619129828?i=1619130278&uo=4",
       "artistName": "Blackhaine"
+    },
+    {
+      "title": "I'm Not Gonna Cum",
+      "album": "Did U Cum Yet / I'm Not Gonna Cum - Single",
+      "year": "2021",
+      "durationMs": 571211,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/65/ee/4e65ee24-3102-ca3d-a203-9c6886c96057/mzaf_10359627558323523237.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/82/a0/e682a011-11da-69d1-215b-d093a8682439/8718723178914.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/im-not-gonna-cum/1575247291?i=1575247596&uo=4",
+      "artistName": "Blackhaine & Richie Culver"
     }
   ],
   "nukuluk": [
@@ -1868,6 +1868,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "地下少女樂隊"
     },
     {
+      "title": "討厭我 (feat. Nina_noschool & MOMOKAISYOURGOD)",
+      "album": "地下少女樂隊Mixtape1",
+      "year": "2026",
+      "durationMs": 130395,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/4f/fb/8c4ffbf5-e814-ea90-cc83-09598bf0c2f2/mzaf_3626975802983736299.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/1f/8e/701f8e30-fa67-afc2-2694-a9080629c540/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E8%A8%8E%E5%8E%AD%E6%88%91-feat-nina-noschool-momokaisyourgod/6822539372?i=6822539382&uo=4",
+      "artistName": "地下少女樂隊"
+    },
+    {
       "title": "Bad Pills (feat. awasubaruuuu)",
       "album": "地下少女樂隊Mixtape1",
       "year": "2026",
@@ -1885,16 +1895,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/11/24/31112470-0db6-372b-af3c-c715797cfaf2/mzaf_17519152145464863976.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/1f/8e/701f8e30-fa67-afc2-2694-a9080629c540/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/xxxx-feat-tomori-rackz-kashsaki/6822539372?i=6822539381&uo=4",
-      "artistName": "地下少女樂隊"
-    },
-    {
-      "title": "討厭我 (feat. Nina_noschool & MOMOKAISYOURGOD)",
-      "album": "地下少女樂隊Mixtape1",
-      "year": "2026",
-      "durationMs": 130395,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/4f/fb/8c4ffbf5-e814-ea90-cc83-09598bf0c2f2/mzaf_3626975802983736299.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/1f/8e/701f8e30-fa67-afc2-2694-a9080629c540/artwork.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E8%A8%8E%E5%8E%AD%E6%88%91-feat-nina-noschool-momokaisyourgod/6822539372?i=6822539382&uo=4",
       "artistName": "地下少女樂隊"
     },
     {
@@ -1940,13 +1940,13 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "kisso-cotty": [
     {
-      "title": "How did the dream begin?",
+      "title": "Watch the sunset,remember who I am",
       "album": "Melted Summer Dream",
       "year": "2026",
-      "durationMs": 57049,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/16/c6/7f16c617-2f29-3e1e-ef2b-f0d537eb1ff5/mzaf_2234689396462011701.plus.aac.p.m4a",
+      "durationMs": 184615,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/90/7f/f1907ff3-3a58-3198-cf10-06b27b947e46/mzaf_9968301493365949550.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/90/d1/7a90d1f8-0cc8-38a7-415b-75a4197f228f/6932897006022.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/how-did-the-dream-begin/6821288470?i=6821288471&uo=4",
+      "appleUrl": "https://music.apple.com/us/album/watch-the-sunset-remember-who-i-am/6821288470?i=6821288751&uo=4",
       "artistName": "Kisso Cotty"
     },
     {
@@ -1960,6 +1960,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Kisso Cotty & alyorra"
     },
     {
+      "title": "How did the dream begin?",
+      "album": "Melted Summer Dream",
+      "year": "2026",
+      "durationMs": 57049,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/16/c6/7f16c617-2f29-3e1e-ef2b-f0d537eb1ff5/mzaf_2234689396462011701.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/90/d1/7a90d1f8-0cc8-38a7-415b-75a4197f228f/6932897006022.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/how-did-the-dream-begin/6821288470?i=6821288471&uo=4",
+      "artistName": "Kisso Cotty"
+    },
+    {
       "title": "Lollipop",
       "album": "Melted Summer Dream",
       "year": "2026",
@@ -1967,16 +1977,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/e7/f8/70e7f8a7-eb6a-9972-71f0-40e8d34be029/mzaf_13239689675386106517.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/90/d1/7a90d1f8-0cc8-38a7-415b-75a4197f228f/6932897006022.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/lollipop/6821288470?i=6821288473&uo=4",
-      "artistName": "Kisso Cotty"
-    },
-    {
-      "title": "Watch the sunset,remember who I am",
-      "album": "Melted Summer Dream",
-      "year": "2026",
-      "durationMs": 184615,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/90/7f/f1907ff3-3a58-3198-cf10-06b27b947e46/mzaf_9968301493365949550.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/90/d1/7a90d1f8-0cc8-38a7-415b-75a4197f228f/6932897006022.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/watch-the-sunset-remember-who-i-am/6821288470?i=6821288751&uo=4",
       "artistName": "Kisso Cotty"
     },
     {
@@ -2062,16 +2062,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Vovo Weng & mhk"
     },
     {
-      "title": "Surf",
-      "album": "LIVE SHOW",
-      "year": "2023",
-      "durationMs": 189923,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bc/e6/ab/bce6abea-1be9-a88b-1d73-07f9e7687462/mzaf_3459893593868145471.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/67/f9/3f67f908-711d-d282-c4b3-4d14a1c2e270/8809964654753.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/surf/1715455281?i=1715455291&uo=4",
-      "artistName": "Vovo Weng"
-    },
-    {
       "title": "Yesterday",
       "album": "Yesterday - Single",
       "year": "2023",
@@ -2089,6 +2079,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/96/97/3c96977b-0a32-e570-c935-d70f66f2c59c/mzaf_15626315738410223871.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/b7/b8/0fb7b868-213c-0268-69fb-917ea9fe03d6/8800370427528.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/highlighter/6818448704?i=6818448714&uo=4",
+      "artistName": "Vovo Weng"
+    },
+    {
+      "title": "Surf",
+      "album": "LIVE SHOW",
+      "year": "2023",
+      "durationMs": 189923,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bc/e6/ab/bce6abea-1be9-a88b-1d73-07f9e7687462/mzaf_3459893593868145471.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/67/f9/3f67f908-711d-d282-c4b3-4d14a1c2e270/8809964654753.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/surf/1715455281?i=1715455291&uo=4",
       "artistName": "Vovo Weng"
     },
     {
@@ -2276,13 +2276,13 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Yeil"
     },
     {
-      "title": "aitai",
-      "album": "heart pop",
-      "year": "2026",
-      "durationMs": 146243,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/f7/9e/48f79e2a-d804-00be-58be-fc42a639c70e/mzaf_12220562389879123040.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/23/fe/b923fef1-f9dd-3bf0-0245-c130f28c0eae/artwork.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/aitai/1879689708?i=1879689711&uo=4",
+      "title": "baby what u do?",
+      "album": "ye",
+      "year": "2025",
+      "durationMs": 173184,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/ed/85/67ed85e5-4cdd-db1e-fd48-7d6c4965cc7b/mzaf_17716732720960324118.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/6f/68/656f68e5-3f1e-2934-055f-73b33e4b55b2/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/baby-what-u-do/1832942640?i=1832942945&uo=4",
       "artistName": "Yeil"
     },
     {
@@ -2296,13 +2296,13 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Yeil"
     },
     {
-      "title": "baby what u do?",
-      "album": "ye",
-      "year": "2025",
-      "durationMs": 173184,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/ed/85/67ed85e5-4cdd-db1e-fd48-7d6c4965cc7b/mzaf_17716732720960324118.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/6f/68/656f68e5-3f1e-2934-055f-73b33e4b55b2/artwork.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/baby-what-u-do/1832942640?i=1832942945&uo=4",
+      "title": "aitai",
+      "album": "heart pop",
+      "year": "2026",
+      "durationMs": 146243,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/f7/9e/48f79e2a-d804-00be-58be-fc42a639c70e/mzaf_12220562389879123040.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/23/fe/b923fef1-f9dd-3bf0-0245-c130f28c0eae/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/aitai/1879689708?i=1879689711&uo=4",
       "artistName": "Yeil"
     },
     {
@@ -2316,16 +2316,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Yeil & swetty"
     },
     {
-      "title": "heart pop",
-      "album": "heart pop",
-      "year": "2026",
-      "durationMs": 123511,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/4b/16/4d4b160d-15c8-d628-10b3-cc1a5979fcc0/mzaf_2238710927693048242.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/23/fe/b923fef1-f9dd-3bf0-0245-c130f28c0eae/artwork.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/heart-pop/1879689708?i=1879689719&uo=4",
-      "artistName": "Yeil & swetty"
-    },
-    {
       "title": "러브스토리.. (feat. markisa)",
       "album": "heart pop",
       "year": "2026",
@@ -2334,6 +2324,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/23/fe/b923fef1-f9dd-3bf0-0245-c130f28c0eae/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/%EB%9F%AC%EB%B8%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-feat-markisa/1879689708?i=1879689717&uo=4",
       "artistName": "Yeil"
+    },
+    {
+      "title": "heart pop",
+      "album": "heart pop",
+      "year": "2026",
+      "durationMs": 123511,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/4b/16/4d4b160d-15c8-d628-10b3-cc1a5979fcc0/mzaf_2238710927693048242.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/23/fe/b923fef1-f9dd-3bf0-0245-c130f28c0eae/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/heart-pop/1879689708?i=1879689719&uo=4",
+      "artistName": "Yeil & swetty"
     },
     {
       "title": "True (feat. sn7 & e5)",
@@ -2552,24 +2552,14 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "dark9community": [
     {
-      "title": "M.M.M.F.d9c",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 199007,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/10/bb/c1/10bbc172-6908-d61e-4cc0-3c9ba7617eea/mzaf_4779676533166985712.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/m-m-m-f-d9c/1727463111?i=1727464051&uo=4",
-      "artistName": "DARK9COMMUNITY 暗夜社区 & 88LIEN"
-    },
-    {
-      "title": "Popping 9.d9c",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 200517,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/89/4e/f5/894ef55a-5955-6b04-4fff-b4330fcbc8f1/mzaf_8630560124080549510.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/popping-9-d9c/1727463111?i=1727463136&uo=4",
-      "artistName": "DARK9COMMUNITY 暗夜社区, Arthurnevawakes & 5IVE5IVE"
+      "title": "忘了 (feat. FANVY & Arthurnevawakes)",
+      "album": "D9 Ⅱ",
+      "year": "2025",
+      "durationMs": 112432,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/36/1a/cd361a1a-08d2-39e9-811e-4778446293b1/mzaf_13129815866819040327.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/63/ae/bc63ae4b-3f2d-1dc1-e235-1335185bfef7/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E5%BF%98%E4%BA%86-feat-fanvy-arthurnevawakes/1885501550?i=1885502213&uo=4",
+      "artistName": "DARK9COMMUNITY 暗夜社区"
     },
     {
       "title": "Insane.d9c",
@@ -2582,16 +2572,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "DARK9COMMUNITY 暗夜社区, Omega & 88LIEN"
     },
     {
-      "title": "Super Saiyan.d9c",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 181242,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6d/d7/92/6dd792ab-1a10-44cd-d5e7-e727ef9b39f2/mzaf_6564408735015145555.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/super-saiyan-d9c/1727463111?i=1727464037&uo=4",
-      "artistName": "DARK9COMMUNITY 暗夜社区, Arthurnevawakes, 5IVE5IVE & Omega"
-    },
-    {
       "title": "7E.d9c",
       "album": "D9",
       "year": "2024",
@@ -2602,53 +2582,73 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "DARK9COMMUNITY 暗夜社区, 88LIEN & FANVY"
     },
     {
-      "title": "DARKSIDE.d9c",
+      "title": "Know Bout Dat.d9c",
       "album": "D9",
       "year": "2024",
-      "durationMs": 144084,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fd/d3/6d/fdd36d80-f0b5-8764-7fa2-60f949cc9926/mzaf_15979187385170531561.plus.aac.p.m4a",
+      "durationMs": 184300,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/84/f9/b7/84f9b728-11e4-b485-cd6c-ee656d9a798d/mzaf_9398720441313346004.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/darkside-d9c/1727463111?i=1727463119&uo=4",
+      "appleUrl": "https://music.apple.com/us/album/know-bout-dat-d9c/1727463111?i=1727463432&uo=4",
+      "artistName": "DARK9COMMUNITY 暗夜社区, 88LIEN & 5IVE5IVE"
+    },
+    {
+      "title": "Money Rule Obey.d9c",
+      "album": "D9",
+      "year": "2024",
+      "durationMs": 156000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/45/82/49/45824900-8f02-69eb-398e-a58fca68a9e0/mzaf_1447084677427292454.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/money-rule-obey-d9c/1727463111?i=1727463127&uo=4",
+      "artistName": "DARK9COMMUNITY 暗夜社区, 88LIEN & FANVY"
+    },
+    {
+      "title": "炸爛了.d9c",
+      "album": "D9",
+      "year": "2024",
+      "durationMs": 213337,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ca/a3/0a/caa30a6b-f5c0-add4-e57c-ac2d933e2c9c/mzaf_15908924274328487702.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E7%82%B8%E7%88%9B%E4%BA%86-d9c/1727463111?i=1727463428&uo=4",
+      "artistName": "DARK9COMMUNITY 暗夜社区, FANVY, Omega, Arthurnevawakes & 5IVE5IVE"
+    },
+    {
+      "title": "One More Race.d9c",
+      "album": "D9",
+      "year": "2024",
+      "durationMs": 132987,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9b/53/da/9b53da69-ab4e-1d7b-20f2-248ab5c629e0/mzaf_4541134622174100326.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/one-more-race-d9c/1727463111?i=1727463910&uo=4",
       "artistName": "DARK9COMMUNITY 暗夜社区, FANVY & 88LIEN"
     },
     {
-      "title": "Use Me To Get High.d9c",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 102906,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/0d/31/1a0d3154-9a1c-a98a-165e-b2eaf381b768/mzaf_189163664030230202.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/use-me-to-get-high-d9c/1727463111?i=1727463123&uo=4",
-      "artistName": "DARK9COMMUNITY 暗夜社区, Chalky Wong & 5IVE5IVE"
-    },
-    {
-      "title": "(J talk skit2)",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 69818,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/25/15/7e/25157e9a-f7ea-7e8e-0470-171d138bd712/mzaf_6391903783843504773.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/j-talk-skit2/1727463111?i=1727463436&uo=4",
+      "title": "Wassup (feat. FANVY & Omega)",
+      "album": "D9 Ⅱ",
+      "year": "2025",
+      "durationMs": 154676,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/3c/69/6e3c6961-0d79-568f-f805-315288232a00/mzaf_6232848898460282547.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/63/ae/bc63ae4b-3f2d-1dc1-e235-1335185bfef7/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/wassup-feat-fanvy-omega/1885501550?i=1885501557&uo=4",
       "artistName": "DARK9COMMUNITY 暗夜社区"
     },
     {
-      "title": "(J talk skit3)",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 93136,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1d/18/bf/1d18bf65-44d4-2faa-da13-07a933afffa7/mzaf_11512666590327773905.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/j-talk-skit3/1727463111?i=1727464047&uo=4",
+      "title": "菩萨 (feat. FANVY & Arthurnevawakes)",
+      "album": "D9 Ⅱ",
+      "year": "2025",
+      "durationMs": 86987,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/70/cb/ad70cb76-e581-2c56-7b2c-f7beba876de3/mzaf_248968051277721784.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/63/ae/bc63ae4b-3f2d-1dc1-e235-1335185bfef7/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E8%8F%A9%E8%90%A8-feat-fanvy-arthurnevawakes/1885501550?i=1885502211&uo=4",
       "artistName": "DARK9COMMUNITY 暗夜社区"
     },
     {
-      "title": "(J talk skit1)",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 74182,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b1/b6/ba/b1b6ba72-5944-122d-9230-3c188f33ad8f/mzaf_16533608030444817434.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/j-talk-skit1/1727463111?i=1727463408&uo=4",
+      "title": "Pour Up (feat. FANVY & 5IVE5IVE)",
+      "album": "D9 Ⅱ",
+      "year": "2025",
+      "durationMs": 113512,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/eb/95/ddeb958b-0788-ce8a-286c-bc97e005a82e/mzaf_14673861832486879516.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/63/ae/bc63ae4b-3f2d-1dc1-e235-1335185bfef7/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/pour-up-feat-fanvy-5ive5ive/1885501550?i=1885501832&uo=4",
       "artistName": "DARK9COMMUNITY 暗夜社区"
     }
   ],
@@ -2694,16 +2694,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Billionhappy & Sebii"
     },
     {
-      "title": "一夫多妻",
-      "album": "潮",
-      "year": "2025",
-      "durationMs": 166649,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/7d/ed/9b7ded8a-f050-8f79-7b41-1c295987297e/mzaf_16233966784568658039.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/c9/34/84c93423-feac-ab34-2b8f-9fc7095f1a8d/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E4%B8%80%E5%A4%AB%E5%A4%9A%E5%A6%BB/1843895711?i=1843895970&uo=4",
-      "artistName": "Billionhappy & Sebii"
-    },
-    {
       "title": "装B",
       "album": "diǎo",
       "year": "2025",
@@ -2722,6 +2712,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/8d/93/c28d93cc-881a-7299-1e14-586f5bcfc243/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/%E9%98%B4%E6%9A%97b/1835236045?i=1835236070&uo=4",
       "artistName": "Billionhappy"
+    },
+    {
+      "title": "一夫多妻",
+      "album": "潮",
+      "year": "2025",
+      "durationMs": 166649,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/7d/ed/9b7ded8a-f050-8f79-7b41-1c295987297e/mzaf_16233966784568658039.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/c9/34/84c93423-feac-ab34-2b8f-9fc7095f1a8d/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E4%B8%80%E5%A4%AB%E5%A4%9A%E5%A6%BB/1843895711?i=1843895970&uo=4",
+      "artistName": "Billionhappy & Sebii"
     },
     {
       "title": "没救了",
@@ -3276,16 +3276,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "IsolYves"
     },
     {
-      "title": "月色",
-      "album": "EP777",
-      "year": "2025",
-      "durationMs": 162036,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/ce/3b/31ce3b3c-791a-e5bc-0881-9c6c3120ef64/mzaf_14228322244273934531.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/fb/97/cafb9768-8eff-4845-97ab-14f690ffc192/artwork.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E6%9C%88%E8%89%B2/1862951048?i=1862951053&uo=4",
-      "artistName": "IsolYves"
-    },
-    {
       "title": "白天鹅号",
       "album": "EP777",
       "year": "2025",
@@ -3293,6 +3283,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/a3/f7/93a3f72f-f62f-2dde-8693-97a156e6570e/mzaf_7578513261349549588.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/fb/97/cafb9768-8eff-4845-97ab-14f690ffc192/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/%E7%99%BD%E5%A4%A9%E9%B9%85%E5%8F%B7/1862951048?i=1862951049&uo=4",
+      "artistName": "IsolYves"
+    },
+    {
+      "title": "月色",
+      "album": "EP777",
+      "year": "2025",
+      "durationMs": 162036,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/ce/3b/31ce3b3c-791a-e5bc-0881-9c6c3120ef64/mzaf_14228322244273934531.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/fb/97/cafb9768-8eff-4845-97ab-14f690ffc192/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E6%9C%88%E8%89%B2/1862951048?i=1862951053&uo=4",
       "artistName": "IsolYves"
     },
     {
@@ -3368,36 +3368,6 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "dd-ma-shawty": [
     {
-      "title": "AOE (All Of Everything)",
-      "album": "21's Tears",
-      "year": "2025",
-      "durationMs": 164571,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/e6/40/cce64069-6a64-1d64-a0db-bd2aa60d4734/mzaf_1870444620615517526.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/d9/1f/b1d91f29-b50e-588b-5e84-7ea01121b1c5/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/aoe-all-of-everything/1865119815?i=1865120325&uo=4",
-      "artistName": "DD Ma Shawty"
-    },
-    {
-      "title": "AOE Pt.2",
-      "album": "AOE Pt.2 - Single",
-      "year": "2026",
-      "durationMs": 166406,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/be/e2/0dbee25d-0926-ed8f-de67-bca6ba503d57/mzaf_4010474642300179794.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/4b/7b/1b4b7b68-b28a-2730-3c99-c84907706320/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/aoe-pt-2/6773334465?i=6773334470&uo=4",
-      "artistName": "DD Ma Shawty, BOBBYNOPEACE & LusciousBB"
-    },
-    {
-      "title": "Choppa Pt.2",
-      "album": "21's Tears",
-      "year": "2025",
-      "durationMs": 92743,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/9f/7d/a29f7d34-736b-c603-f76b-b19762995bd1/mzaf_14047071989406064879.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/d9/1f/b1d91f29-b50e-588b-5e84-7ea01121b1c5/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/choppa-pt-2/1865119815?i=1865120306&uo=4",
-      "artistName": "DD Ma Shawty"
-    },
-    {
       "title": "Asian Power (亚洲之力)",
       "album": "21's Tears",
       "year": "2025",
@@ -3466,6 +3436,36 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/03/a0/4503a0c2-ecd4-c6f0-2b70-64826733529e/cover.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/%E5%A4%A9%E4%BD%BF/6777914247?i=6777914610&uo=4",
       "artistName": "DD Ma Shawty & Yxng Amiri"
+    },
+    {
+      "title": "AOE (All Of Everything)",
+      "album": "21's Tears",
+      "year": "2025",
+      "durationMs": 164571,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/e6/40/cce64069-6a64-1d64-a0db-bd2aa60d4734/mzaf_1870444620615517526.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/d9/1f/b1d91f29-b50e-588b-5e84-7ea01121b1c5/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/aoe-all-of-everything/1865119815?i=1865120325&uo=4",
+      "artistName": "DD Ma Shawty"
+    },
+    {
+      "title": "离开",
+      "album": "S.I.T.L",
+      "year": "2025",
+      "durationMs": 192610,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/d5/1c/67d51cc9-1579-716b-82b6-48645526fbaf/mzaf_4824013206843616673.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/03/a0/4503a0c2-ecd4-c6f0-2b70-64826733529e/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E7%A6%BB%E5%BC%80/6777914247?i=6777914787&uo=4",
+      "artistName": "DD Ma Shawty"
+    },
+    {
+      "title": "契约",
+      "album": "S.I.T.L",
+      "year": "2025",
+      "durationMs": 181232,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/51/44/845144f0-858f-2a55-6014-3cd9125a16af/mzaf_7431503737495409881.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/03/a0/4503a0c2-ecd4-c6f0-2b70-64826733529e/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E5%A5%91%E7%BA%A6/6777914247?i=6777914606&uo=4",
+      "artistName": "DD Ma Shawty & Three thousand***"
     }
   ],
   "jesse-margiela": [
@@ -3674,64 +3674,84 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "mitsu": [
     {
-      "title": "pretend (feat. yugen)",
-      "album": "pretend (feat. yugen) - Single",
+      "title": "Just Want You (feat. Mitsu)",
+      "album": "Just Want You (feat. Mitsu) - Single",
       "year": "2021",
-      "durationMs": 129730,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/54/79/7a547957-4a30-433b-33f4-b438af3c5e35/mzaf_12101987258797656670.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/a4/4f/cda44fb1-8bdd-d475-b8ae-625a902242aa/881.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/pretend-feat-yugen/1765042905?i=1765043129&uo=4",
-      "artistName": "mitsu"
+      "durationMs": 129776,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/72/c7/07/72c70745-fbf5-9e79-4ab3-8aaea5f397db/mzaf_16459378168330531101.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/60/52/33/6052339e-d79a-f904-7b0e-cb1e77259381/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/just-want-you-feat-mitsu/1597753659?i=1597753660&uo=4",
+      "artistName": "datealyfe"
     },
     {
-      "title": "sa’ yo",
-      "album": "do u miss me like i miss u - Single",
-      "year": "2023",
-      "durationMs": 120000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/2e/1b/c92e1be1-fd5a-229d-85ed-9d01ece57351/mzaf_149873798997335700.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/d3/f5/4bd3f566-8fa5-6fdc-a2c6-2b7142ec3580/888.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/sa-yo/1765044930?i=1765044931&uo=4",
-      "artistName": "mitsu"
-    },
-    {
-      "title": "사랑",
-      "album": "사랑 - Single",
+      "title": "Suwupreme 2 (feat. Mitsu & Kuru)",
+      "album": "Suwupreme 2 (feat. Mitsu & Kuru) - Single",
       "year": "2021",
-      "durationMs": 96000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/66/d1/3566d1c4-0df9-b227-e618-317e1a470f43/mzaf_13778300158174722972.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/46/c8/2446c859-fe80-55e9-3a40-2a0a252f5e12/875.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%EC%82%AC%EB%9E%91/1764976736?i=1764976737&uo=4",
-      "artistName": "mitsu"
+      "durationMs": 241722,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0a/cb/ea/0acbeafc-0732-80a3-89ab-c78be3c4aa8e/mzaf_11130107400794323382.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/89/8c/d4898ca4-d23e-7cab-f25f-1232d525a75f/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/suwupreme-2-feat-mitsu-kuru/1596667847?i=1596667848&uo=4",
+      "artistName": "Miraie"
     },
     {
-      "title": "do u miss me like i miss u",
-      "album": "do u miss me like i miss u - Single",
-      "year": "2023",
-      "durationMs": 68311,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/b8/f5/9ab8f594-3ebf-74f1-bf7f-daa36b7fe519/mzaf_6945881252158947817.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/d3/f5/4bd3f566-8fa5-6fdc-a2c6-2b7142ec3580/888.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/do-u-miss-me-like-i-miss-u/1765044930?i=1765044932&uo=4",
-      "artistName": "mitsu"
+      "title": "Mirror (feat. Mitsu)",
+      "album": "Fatebound",
+      "year": "2021",
+      "durationMs": 199755,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/5b/84/c85b8499-d44a-a024-3580-cd6909d4f036/mzaf_16971350728010489405.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/59/cf/e559cfab-1936-325d-542e-cba889ab76cb/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/mirror-feat-mitsu/1582371972?i=1582371977&uo=4",
+      "artistName": "Miraie"
     },
     {
-      "title": "love me till the sunrise",
-      "album": "ako - EP",
-      "year": "2022",
-      "durationMs": 132515,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/3d/d0/b93dd0ef-12d4-b700-a06e-d42f8df377d2/mzaf_5036868334322868511.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/92/48/e192485f-ba3d-9825-c26a-561202c4072a/889.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/love-me-till-the-sunrise/1765167704?i=1765167922&uo=4",
-      "artistName": "mitsu"
+      "title": "Crying Blood (feat. Mitsu, Kid Sora & Kuru)",
+      "album": "Fatebound",
+      "year": "2021",
+      "durationMs": 201707,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/09/c4/2a09c440-ea4f-4a35-3330-e8a1c65a31f8/mzaf_1212653462313878010.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/59/cf/e559cfab-1936-325d-542e-cba889ab76cb/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/crying-blood-feat-mitsu-kid-sora-kuru/1582371972?i=1582371980&uo=4",
+      "artistName": "Miraie"
     },
     {
-      "title": "안녕",
-      "album": "안녕 - Single",
+      "title": "Cold Winter Nights (feat. Mitsu)",
+      "album": "Cold Winter Nights (feat. Mitsu) - Single",
       "year": "2020",
-      "durationMs": 68670,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/fd/72/c0fd72c2-1487-c249-50d1-f806e32ca25c/mzaf_17660847654849942799.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/9a/d6/009ad6ab-ca11-f696-4576-d0d25ed3a04f/874.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%EC%95%88%EB%85%95/1764974638?i=1764974648&uo=4",
-      "artistName": "mitsu"
+      "durationMs": 183023,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/eb/de/a6ebdea1-6dca-4ef8-7619-82f563f57f7d/mzaf_15949649704923544854.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bf/ef/80/bfef80f7-501c-8e74-a1b9-2f195b8a23b2/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/cold-winter-nights-feat-mitsu/1543583777?i=1543583778&uo=4",
+      "artistName": "Miraie"
+    },
+    {
+      "title": "상상 (feat. Mitsu & Kishin)",
+      "album": "상상 (feat. Mitsu & Kishin) - Single",
+      "year": "2022",
+      "durationMs": 154540,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/06/1a/4f/061a4f5f-9a64-7939-0378-2e3fba15749c/mzaf_565712691863687920.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/1d/49/4a1d494f-c921-979f-fb1b-f9a85b98bb17/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%EC%83%81%EC%83%81-feat-mitsu-kishin/1635201369?i=1635201370&uo=4",
+      "artistName": "Munzi"
+    },
+    {
+      "title": "Asahi (feat. Mitsu)",
+      "album": "Asahi (feat. Mitsu) - Single",
+      "year": "2022",
+      "durationMs": 149582,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4b/c9/7d/4bc97ddb-4cd7-a17a-2344-b6d124414910/mzaf_16281476807065062136.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/f3/b4/61f3b418-59a5-65b8-b931-f4cde3a3d640/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/asahi-feat-mitsu/1609757962?i=1609757963&uo=4",
+      "artistName": "Miraie"
+    },
+    {
+      "title": "lovelybones (feat. mitsu)",
+      "album": "dud2",
+      "year": "2026",
+      "durationMs": 141263,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/84/fe/c584fe5c-5d55-6039-179d-d0e462036ab9/mzaf_9317946667336262277.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/47/49/d04749cd-d552-7dc8-b080-2c4ba69b3e1e/820233049078.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/lovelybones-feat-mitsu/1894988457?i=6762736980&uo=4",
+      "artistName": "2umyfantasy"
     },
     {
       "title": "dahlia",
@@ -3744,33 +3764,13 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "mitsu"
     },
     {
-      "title": "잘자",
-      "album": "잘자 - Single",
-      "year": "2025",
-      "durationMs": 173566,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/96/02/dc9602c2-ea7a-4833-1081-45f7f47d05ef/mzaf_12060022950990092515.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/a4/66/87a46654-b87a-c0c7-53c9-13913e269614/1296.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%EC%9E%98%EC%9E%90/1849467902?i=1849467903&uo=4",
-      "artistName": "mitsu, pakaowlla & tsuyu"
-    },
-    {
-      "title": "alive",
-      "album": "alive - Single",
-      "year": "2025",
-      "durationMs": 164318,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/04/76/45047618-f284-c92c-0756-b55cc19a818f/mzaf_10422966126904314738.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/5b/3b/b95b3b22-2665-56dd-19de-883c4832381e/1070.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/alive/1794597084?i=1794597085&uo=4",
-      "artistName": "mitsu"
-    },
-    {
-      "title": "ako",
-      "album": "ako - EP",
+      "title": "sa’ yo",
+      "album": "do u miss me like i miss u - Single",
       "year": "2023",
-      "durationMs": 49655,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/3d/ea/fd3dea4a-9844-254c-4f3c-ca0a337ed925/mzaf_1762588433293429862.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/92/48/e192485f-ba3d-9825-c26a-561202c4072a/889.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/ako/1765167704?i=1765167891&uo=4",
+      "durationMs": 120000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/2e/1b/c92e1be1-fd5a-229d-85ed-9d01ece57351/mzaf_149873798997335700.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/d3/f5/4bd3f566-8fa5-6fdc-a2c6-2b7142ec3580/888.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/sa-yo/1765044930?i=1765044931&uo=4",
       "artistName": "mitsu"
     }
   ],
@@ -3878,86 +3878,6 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "kianna": [
     {
-      "title": "7-11 (feat. AssToro)",
-      "album": "Kiannacore 3",
-      "year": "2025",
-      "durationMs": 156000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/66/cb/f466cb7e-e985-a23b-4a4d-2b1d3447623b/mzaf_3990998045421109842.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/73/b2/2873b2b2-3e49-b252-f735-a3f653b959c1/4550713476952_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/7-11-feat-asstoro/1869129296?i=1869129491&uo=4",
-      "artistName": "Kianna"
-    },
-    {
-      "title": "Spectrum",
-      "album": "Kiannacore 3",
-      "year": "2025",
-      "durationMs": 113440,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/79/e0/b579e0f2-257d-f77b-a9dd-37a26a5b51ff/mzaf_11447325480881514846.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/73/b2/2873b2b2-3e49-b252-f735-a3f653b959c1/4550713476952_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/spectrum/1869129296?i=1869129498&uo=4",
-      "artistName": "Kianna"
-    },
-    {
-      "title": "Tears in Japan (feat. Ludio)",
-      "album": "Kiannacore 3",
-      "year": "2025",
-      "durationMs": 92281,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/b7/91/28b79102-1c9e-b9f3-c339-d4e604e73572/mzaf_13697306425504980944.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/73/b2/2873b2b2-3e49-b252-f735-a3f653b959c1/4550713476952_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/tears-in-japan-feat-ludio/1869129296?i=1869129485&uo=4",
-      "artistName": "Kianna"
-    },
-    {
-      "title": "##Creativemode",
-      "album": "Kiannacore 3",
-      "year": "2025",
-      "durationMs": 133147,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/bb/cb/48bbcbeb-898d-e3db-9cbc-3f2c3d08b0eb/mzaf_15567463216357363382.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/73/b2/2873b2b2-3e49-b252-f735-a3f653b959c1/4550713476952_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/creativemode/1869129296?i=1869129497&uo=4",
-      "artistName": "Kianna"
-    },
-    {
-      "title": "Coming Up",
-      "album": "Kiannacore 3",
-      "year": "2025",
-      "durationMs": 118121,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/bb/04/eabb04c1-bcf5-1855-ec77-b50a1ebecbe2/mzaf_16630269722548055609.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/73/b2/2873b2b2-3e49-b252-f735-a3f653b959c1/4550713476952_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/coming-up/1869129296?i=1869129490&uo=4",
-      "artistName": "Kianna"
-    },
-    {
-      "title": "Passion fruit",
-      "album": "Passion fruit - Single",
-      "year": "2026",
-      "durationMs": 100000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/fc/18/55fc1814-5e30-cd0d-2106-f73f8e9aa1ce/mzaf_11297274438954032868.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/d7/df/bfd7df7a-e81d-a7c7-930c-5f353d36b261/199316478266_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/passion-fruit/1876533480?i=1876533812&uo=4",
-      "artistName": "Kianna"
-    },
-    {
-      "title": "Tom n Jerry",
-      "album": "Kiannacore 2 - EP",
-      "year": "2025",
-      "durationMs": 129427,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/2c/dd/7f2cddcb-a740-7c6a-b6b2-34b62cb4dba5/mzaf_7293794858462325190.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/30/ce/9b30cef3-880c-4c6e-8dd8-b0ab5b5ccf09/4550710198369_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/tom-n-jerry/1869129257?i=1869129261&uo=4",
-      "artistName": "Kianna"
-    },
-    {
-      "title": "Running Now (feat. NFN TEFER)",
-      "album": "Running Now (feat. NFN TEFER) - Single",
-      "year": "2025",
-      "durationMs": 105613,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/09/d5/1109d5b9-309c-84c9-0aaa-7780c703abbf/mzaf_3738396670849538090.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/28/4c/8b284c2a-2f7a-c85b-d7b5-16b2fb164148/4550708815964_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/running-now-feat-nfn-tefer/1869128561?i=1869128565&uo=4",
-      "artistName": "Kianna"
-    },
-    {
       "title": "Blah Blah",
       "album": "Kiannacore 3",
       "year": "2025",
@@ -3976,38 +3896,128 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/9a/57/2e9a578c-ec8a-ca74-4be9-432aa5074cda/4550707777157_cover.png/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/feelin-feat-kianna/1808609757?i=1808609762&uo=4",
       "artistName": "vxescot"
+    },
+    {
+      "title": "3point",
+      "album": "Instinct",
+      "year": "2026",
+      "durationMs": 140308,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/b1/33/3fb133fd-52a7-a6ae-3361-ebf33ce9f3f9/mzaf_13207489539700142071.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/32/fc/b232fcd5-1fb1-686b-fbb1-40d0401e2ce7/199316709797_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/3point/6794422519?i=6794422540&uo=4",
+      "artistName": "Kianna"
+    },
+    {
+      "title": "Pm3 (feat. Hoshino Kutta)",
+      "album": "Kiannacore 3",
+      "year": "2025",
+      "durationMs": 120814,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/d7/5f/c1d75f77-c924-e9d4-f410-9e6a7619c6bf/mzaf_16608586344379365357.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/73/b2/2873b2b2-3e49-b252-f735-a3f653b959c1/4550713476952_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/pm3-feat-hoshino-kutta/1869129296?i=1869129487&uo=4",
+      "artistName": "Kianna"
+    },
+    {
+      "title": "japan cypher",
+      "album": "bbs Asia Underground Cypher 2026 - EP",
+      "year": "2026",
+      "durationMs": 133695,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/7f/37/c77f3715-8540-9eda-3dd6-4ccab860aa09/mzaf_8860107246104052690.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/95/38/309538f6-a6c8-f7d1-17f9-d749d4527b0c/8800370679897_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/japan-cypher/1893203526?i=1893203527&uo=4",
+      "artistName": "babyselects, Cash Cow Music, Kianna, kegøn & Yvnlazy"
+    },
+    {
+      "title": "stabilizer",
+      "album": "Instinct",
+      "year": "2026",
+      "durationMs": 92000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/7e/62/cd7e6225-5a29-e070-de8c-33a3fa7301ca/mzaf_420524145138768202.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/32/fc/b232fcd5-1fb1-686b-fbb1-40d0401e2ce7/199316709797_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/stabilizer/6794422519?i=6794422531&uo=4",
+      "artistName": "Kianna"
+    },
+    {
+      "title": "Trust Me",
+      "album": "Kiannacore 2 - EP",
+      "year": "2025",
+      "durationMs": 149427,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/bc/5c/27bc5c70-5cf4-4125-139f-079fcabc7928/mzaf_7663544564006097339.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/30/ce/9b30cef3-880c-4c6e-8dd8-b0ab5b5ccf09/4550710198369_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/trust-me/1869129257?i=1869129258&uo=4",
+      "artistName": "Kianna"
+    },
+    {
+      "title": "Running Now (feat. NFN TEFER)",
+      "album": "Running Now (feat. NFN TEFER) - Single",
+      "year": "2025",
+      "durationMs": 105613,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/09/d5/1109d5b9-309c-84c9-0aaa-7780c703abbf/mzaf_3738396670849538090.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/28/4c/8b284c2a-2f7a-c85b-d7b5-16b2fb164148/4550708815964_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/running-now-feat-nfn-tefer/1869128561?i=1869128565&uo=4",
+      "artistName": "Kianna"
+    },
+    {
+      "title": "STARLIGHT (Mixed)",
+      "album": "VISION: DJ CHARI, HOT SEASON (DJ Mix)",
+      "year": "2026",
+      "durationMs": 228086,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/46/42/594642c5-4016-0091-61a4-acabcb50f619/mzaf_182842137332001436.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/d2/99/24d299b0-caa1-03e7-1370-c6ac97010f07/cea996e9-992f-4c43-9c8b-a3631d32d5df.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/starlight-mixed/6806353396?i=6806353952&uo=4",
+      "artistName": "AOTO, Siero, Kianna & HARKA"
+    },
+    {
+      "title": "box",
+      "album": "Instinct",
+      "year": "2026",
+      "durationMs": 122234,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/22/6b/7e226bbf-7494-fba2-6495-2162883d8634/mzaf_1861631133148330644.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/32/fc/b232fcd5-1fb1-686b-fbb1-40d0401e2ce7/199316709797_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/box/6794422519?i=6794422534&uo=4",
+      "artistName": "Kianna"
     }
   ],
   "yvnlazy": [
     {
+      "title": "Melt With You (feat. Ccn)",
+      "album": "Melt With You (feat. Ccn) - Single",
+      "year": "2022",
+      "durationMs": 153000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/39/8f/b7398f93-49ce-9067-bd23-8370e4be842b/mzaf_5356816106461891204.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/89/01/4d890112-6055-8621-016a-4c89ebc6b401/859758089924_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/melt-with-you-feat-ccn/1618549528?i=1618549836&uo=4",
+      "artistName": "Yvnlazy"
+    },
+    {
       "title": "Ouroboros",
-      "album": "Ouroboros - Single",
+      "album": "Re:Import",
       "year": "2025",
       "durationMs": 106031,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/e3/e6/28e3e603-a0e2-1f00-6d43-bfe6b519e24b/mzaf_13124346118191099066.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/59/36/855936fd-bb31-23ae-16f1-806f41136575/4550713874475_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/ouroboros/1854375459?i=1854375464&uo=4",
-      "artistName": "Yvnlazy"
-    },
-    {
-      "title": "Reasons",
-      "album": "Longing, and What Lies Beyond",
-      "year": "2025",
-      "durationMs": 125790,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/c2/f5/3fc2f5f6-5151-6fdf-1ed7-37c3179f2682/mzaf_18250419061421343765.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/18/aa/5d18aa9d-a389-9c0b-2cb2-09a55df82293/4550710340058_cover.png/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/reasons/1823122496?i=1823122893&uo=4",
-      "artistName": "Yvnlazy"
-    },
-    {
-      "title": "Where U At",
-      "album": "Re:Import",
-      "year": "2026",
-      "durationMs": 128000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/f8/95/52f8957e-6e70-82b8-d572-e7af9ce66589/mzaf_2600745825913671828.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/48/32/0f4832e5-b47b-8128-a354-9ea37f03ef49/mzaf_11843417435225968414.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/8d/77/fe8d778c-b6e9-6d48-63c8-8ce6b6851d81/4550755867831_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/where-u-at/1895527983?i=6763856625&uo=4",
+      "appleUrl": "https://music.apple.com/us/album/ouroboros/1895527983?i=6763856624&uo=4",
       "artistName": "Yvnlazy"
+    },
+    {
+      "title": "Negative Issues",
+      "album": "Negative Issues - Single",
+      "year": "2025",
+      "durationMs": 131694,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/31/58/f5315805-43be-e700-c136-3bab336fdb50/mzaf_15941427845860596791.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/58/ab/1c58ab5c-5fbf-0d95-2494-fab4eb6dda34/4550706086144_cover.png/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/negative-issues/1799294724?i=1799294727&uo=4",
+      "artistName": "Yvnlazy"
+    },
+    {
+      "title": "Bound for Your Ear",
+      "album": "Bound for Your Ear - Single",
+      "year": "2026",
+      "durationMs": 123871,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/a7/f0/38a7f01b-cb40-9178-5bdd-86216ea0f99f/mzaf_17035369361159060135.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/5f/77/4c5f7796-57ac-89e7-dacd-0772fd3027ca/4550752606792_cover.png/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/bound-for-your-ear/1868577480?i=1868577491&uo=4",
+      "artistName": "okudakun & Yvnlazy"
     },
     {
       "title": "We Gon Be Like This Forever",
@@ -4017,36 +4027,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/5f/3c/1d5f3c33-349e-e58c-93e1-2daf5e096e3b/mzaf_8743103250251069794.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/18/aa/5d18aa9d-a389-9c0b-2cb2-09a55df82293/4550710340058_cover.png/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/we-gon-be-like-this-forever/1823122496?i=1823122892&uo=4",
-      "artistName": "Yvnlazy"
-    },
-    {
-      "title": "Fine Shyt",
-      "album": "Re:Import",
-      "year": "2026",
-      "durationMs": 142703,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/e0/e3/d2e0e38b-658e-66aa-7e93-6ff49a7769e3/mzaf_12327446323128046167.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/8d/77/fe8d778c-b6e9-6d48-63c8-8ce6b6851d81/4550755867831_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/fine-shyt/1895527983?i=6763856382&uo=4",
-      "artistName": "Yvnlazy"
-    },
-    {
-      "title": "Drowning Nightmare (feat. Cxndy)",
-      "album": "Drowning Nightmare (feat. Cxndy) - Single",
-      "year": "2022",
-      "durationMs": 158350,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/a4/3f/c4a43f90-8099-7c0d-480c-c42e1279c8d9/mzaf_8787066578736473463.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/10/66/2f/10662f65-eb3c-9e26-d765-fa4c81f0e6fd/859758876623_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/drowning-nightmare-feat-cxndy/1650932526?i=1650932808&uo=4",
-      "artistName": "Yvnlazy"
-    },
-    {
-      "title": "Once On Shore, We Pray No More",
-      "album": "Longing, and What Lies Beyond",
-      "year": "2025",
-      "durationMs": 112290,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/37/c4/4137c4a1-6373-8835-b8c0-313e6563a4bb/mzaf_17168206111246790767.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/18/aa/5d18aa9d-a389-9c0b-2cb2-09a55df82293/4550710340058_cover.png/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/once-on-shore-we-pray-no-more/1823122496?i=1823122499&uo=4",
       "artistName": "Yvnlazy"
     },
     {
@@ -4060,24 +4040,44 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Yvnlazy"
     },
     {
-      "title": "Way Up",
-      "album": "Longing, and What Lies Beyond",
-      "year": "2025",
-      "durationMs": 129987,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/42/35/324235fa-f547-cfac-0476-1051b9fcf168/mzaf_17199575298655525934.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/18/aa/5d18aa9d-a389-9c0b-2cb2-09a55df82293/4550710340058_cover.png/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/way-up/1823122496?i=1823122890&uo=4",
+      "title": "5-Ht",
+      "album": "Re:Import",
+      "year": "2026",
+      "durationMs": 106667,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/27/3d/a0273d15-fe03-ee29-dc50-fb9230ecb509/mzaf_9819876855777923288.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/8d/77/fe8d778c-b6e9-6d48-63c8-8ce6b6851d81/4550755867831_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/5-ht/1895527983?i=6763856629&uo=4",
       "artistName": "Yvnlazy"
     },
     {
-      "title": "Melt With You (feat. Ccn)",
-      "album": "Melt With You (feat. Ccn) - Single",
-      "year": "2022",
-      "durationMs": 153000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/39/8f/b7398f93-49ce-9067-bd23-8370e4be842b/mzaf_5356816106461891204.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/89/01/4d890112-6055-8621-016a-4c89ebc6b401/859758089924_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/melt-with-you-feat-ccn/1618549528?i=1618549836&uo=4",
-      "artistName": "Yvnlazy"
+      "title": "Cold Winter (feat. Yvnlazy)",
+      "album": "Cold Winter (feat. Yvnlazy) - Single",
+      "year": "2024",
+      "durationMs": 252449,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/a8/bf/6ea8bf32-a85e-f3ad-c01f-2d78db9c6bc1/mzaf_9922925625128422030.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/2a/15/a32a15f4-6818-cbb5-3a71-24aeb0108a7d/4571640623929_cover.png/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/cold-winter-feat-yvnlazy/1786343909?i=1786344031&uo=4",
+      "artistName": "Yvng xan"
+    },
+    {
+      "title": "Ice Spice",
+      "album": "Concrete Green 12",
+      "year": "2026",
+      "durationMs": 116758,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/fc/eb/7afceba7-8552-3bd7-f412-0e0a3717636b/mzaf_14718203551434041270.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/b5/72/82b572af-ceed-6143-d4de-591285f28705/4550756273266_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/ice-spice/1896453687?i=6767275182&uo=4",
+      "artistName": "AssToro & Yvnlazy"
+    },
+    {
+      "title": "Totteoki",
+      "album": "Totteoki - Single",
+      "year": "2026",
+      "durationMs": 169600,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/ca/ab/cdcaabea-02d9-10e7-8a7c-839f5614bbf8/mzaf_17918539968023108853.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/19/49/1b1949b6-f73c-2ddd-3da2-0f73cf7fcf91/4550752052872_cover.png/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/totteoki/1863861936?i=1863862336&uo=4",
+      "artistName": "Ludio, Kianna & Yvnlazy"
     }
   ],
   "esdeekid": [
@@ -4172,13 +4172,13 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "EsDeeKid"
     },
     {
-      "title": "Bandit",
-      "album": "Bandit - Single",
+      "title": "RockWave",
+      "album": "RockWave - Single",
       "year": "2026",
-      "durationMs": 110143,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/84/a4/ed84a4c5-75a6-ded7-291b-dc89de02dc8a/mzaf_11480394979587791367.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/56/fa/7556face-8d52-330e-869a-eb5bc2277460/075679551986.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/bandit/6820306883?i=6820307129&uo=4",
+      "durationMs": 134266,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/4e/a5/d44ea588-2477-ba71-540b-6b8731e8d720/mzaf_1520321967690783275.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/54/ea/9554eaac-54fb-2e17-b70e-083287878c5d/075679569769.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/rockwave/6781031125?i=6781031400&uo=4",
       "artistName": "EsDeeKid"
     }
   ],
@@ -4388,14 +4388,24 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "lsgc": [
     {
-      "title": "不回头",
-      "album": "佛哦佛404(Fo0Fo)",
+      "title": "Hardcore (feat. SkiOnDaRoad & LSGCsikoriot)",
+      "album": "Luvsic",
+      "year": "2023",
+      "durationMs": 164000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/d6/79/e1d679ce-cd59-b5b6-e1b9-8205a8ac20cb/mzaf_9234852427663383511.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/47/80/c0478039-e894-825a-2682-6fd3e426afef/4896010566911.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/hardcore-feat-skiondaroad-lsgcsikoriot/6788384113?i=6788384445&uo=4",
+      "artistName": "mess"
+    },
+    {
+      "title": "盛夏的我",
+      "album": "街(JustInEco)",
       "year": "2026",
-      "durationMs": 154016,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/d1/f8/e6d1f89a-fd6b-9e10-1195-0098d35f13b2/mzaf_3776777579543336973.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/26/e2/1826e212-990c-a5ce-e159-5f9814f30a13/6936738139252.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E4%B8%8D%E5%9B%9E%E5%A4%B4/6805015063?i=6805015309&uo=4",
-      "artistName": "LSGCsikoriot"
+      "durationMs": 200000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/79/fb/1179fb2a-07fb-6a16-3e5c-8c96d4e23f01/mzaf_17109014647387241524.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/90/67/0e906708-ac4e-c7a8-4ac3-7a8fce9b2e19/6937451261527.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E7%9B%9B%E5%A4%8F%E7%9A%84%E6%88%91/1887720765?i=1887720776&uo=4",
+      "artistName": "NorthStar tec9, LSGCsikoriot & WHICHWAY_MUSIC"
     },
     {
       "title": "第404次离开intro",
@@ -4408,6 +4418,66 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "LSGCsikoriot"
     },
     {
+      "title": "Always Star (feat. LSGCsikoriot)",
+      "album": "Iamstar",
+      "year": "2024",
+      "durationMs": 129730,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/15/1a/ad/151aadde-7113-27c4-f618-cc867aa5c6d3/mzaf_7246622803398340597.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/8a/59/ec8a5921-184b-e764-7625-bc577a77308b/4896010605962.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/always-star-feat-lsgcsikoriot/6791958100?i=6791958347&uo=4",
+      "artistName": "K.MONKEY"
+    },
+    {
+      "title": "浪子 (feat. LSGCsikoriot)",
+      "album": "低俗小子",
+      "year": "2026",
+      "durationMs": 229000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/db/42/1bdb42ee-8819-c9c5-b321-78626928cc10/mzaf_5861594281152561837.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/99/e0/3a99e0b2-4397-d232-e48f-9825e7b6dc5f/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E6%B5%AA%E5%AD%90-feat-lsgcsikoriot/1864811814?i=1864812153&uo=4",
+      "artistName": "李法德"
+    },
+    {
+      "title": "翅膀",
+      "album": "BOOM BAP MODELZ VOL.V-TRACK - Single",
+      "year": "2025",
+      "durationMs": 210493,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/bc/b4/64bcb4fc-204b-a7dc-3f73-918980901cab/mzaf_432402805592831835.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/e6/46/69e646e8-04aa-e419-3f9e-6e2626d66e0f/6937451277979.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E7%BF%85%E8%86%80/1837123153?i=1837123156&uo=4",
+      "artistName": "V.O.B & LSGCsikoriot"
+    },
+    {
+      "title": "侵略",
+      "album": "佛哦佛404(Fo0Fo)",
+      "year": "2026",
+      "durationMs": 162381,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/28/63/31286374-5d62-0482-a06a-09c6ce80a672/mzaf_2695849385088749166.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/26/e2/1826e212-990c-a5ce-e159-5f9814f30a13/6936738139252.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E4%BE%B5%E7%95%A5/6805015063?i=6805015316&uo=4",
+      "artistName": "LSGCsikoriot & 1st"
+    },
+    {
+      "title": "血洗手",
+      "album": "A型血",
+      "year": "2021",
+      "durationMs": 153656,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/92/f7/7992f713-4fcb-5b0b-6c90-21618b211b94/mzaf_15950576220817610904.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/35/2e/1e352ebe-7950-10a2-3a8b-4e5c3ca77789/4896010607515.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E8%A1%80%E6%B4%97%E6%89%8B/6791963592?i=6791963859&uo=4",
+      "artistName": "LSGCsikoriot"
+    },
+    {
+      "title": "一副新药",
+      "album": "天堂后花园",
+      "year": "2024",
+      "durationMs": 150000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/93/0d/b5/930db5fb-19d1-47e1-038b-1a48a90f32e2/mzaf_9226968764742467218.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/4a/71/574a71e5-fc88-d0a6-3232-47968ced75f4/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E4%B8%80%E5%89%AF%E6%96%B0%E8%8D%AF/1723824964?i=1723825922&uo=4",
+      "artistName": "LSGCsikoriot"
+    },
+    {
       "title": "嗯,阿",
       "album": "佛哦佛404(Fo0Fo)",
       "year": "2026",
@@ -4415,76 +4485,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/cd/11/4ecd11cd-9c17-755e-f99e-e20b085ea6a9/mzaf_5747253114887611938.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/26/e2/1826e212-990c-a5ce-e159-5f9814f30a13/6936738139252.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/%E5%97%AF-%E9%98%BF/6805015063?i=6805015325&uo=4",
-      "artistName": "LSGCsikoriot"
-    },
-    {
-      "title": "知更鸟的落点",
-      "album": "佛哦佛404(Fo0Fo)",
-      "year": "2026",
-      "durationMs": 160000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/22/4d/1f/224d1f90-14b8-a572-93e9-c83bb4b419ec/mzaf_9408049089566061373.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/26/e2/1826e212-990c-a5ce-e159-5f9814f30a13/6936738139252.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E7%9F%A5%E6%9B%B4%E9%B8%9F%E7%9A%84%E8%90%BD%E7%82%B9/6805015063?i=6805015323&uo=4",
-      "artistName": "LSGCsikoriot"
-    },
-    {
-      "title": "新生活",
-      "album": "新生活 - Single",
-      "year": "2024",
-      "durationMs": 183947,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/4a/f6/594af6d1-aaf9-cca0-543b-92f604b4f9de/mzaf_3459711389371932734.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/91/06/32910633-2447-2039-e236-f573c3eff58c/2623879439.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E6%96%B0%E7%94%9F%E6%B4%BB/1825092877?i=1825092878&uo=4",
-      "artistName": "LSGCsikoriot & 王齐铭WatchMe"
-    },
-    {
-      "title": "雪绒花保佑我的故乡",
-      "album": "天堂后花园",
-      "year": "2024",
-      "durationMs": 187355,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/93/0b/8a/930b8afd-c562-8532-a881-f49a4dcd7281/mzaf_2933239580157931497.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/4a/71/574a71e5-fc88-d0a6-3232-47968ced75f4/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E9%9B%AA%E7%BB%92%E8%8A%B1%E4%BF%9D%E4%BD%91%E6%88%91%E7%9A%84%E6%95%85%E4%B9%A1/1723824964?i=1723825404&uo=4",
-      "artistName": "LSGCsikoriot"
-    },
-    {
-      "title": "客从何处来",
-      "album": "佛哦佛404(Fo0Fo)",
-      "year": "2026",
-      "durationMs": 177955,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/0a/f2/860af27d-fd92-aaa7-15e9-7ed7e9698a97/mzaf_11618145164143803595.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/26/e2/1826e212-990c-a5ce-e159-5f9814f30a13/6936738139252.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E5%AE%A2%E4%BB%8E%E4%BD%95%E5%A4%84%E6%9D%A5/6805015063?i=6805015311&uo=4",
-      "artistName": "LSGCsikoriot & 王齐铭WatchMe"
-    },
-    {
-      "title": "漫漫",
-      "album": "天堂后花园",
-      "year": "2024",
-      "durationMs": 169587,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7a/10/5d/7a105d7e-937d-99ef-36bc-4544da072950/mzaf_2799008619721798802.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/4a/71/574a71e5-fc88-d0a6-3232-47968ced75f4/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E6%BC%AB%E6%BC%AB/1723824964?i=1723824976&uo=4",
-      "artistName": "LSGCsikoriot"
-    },
-    {
-      "title": "简单复仇 (feat. KnowKnow)",
-      "album": "天堂后花园",
-      "year": "2024",
-      "durationMs": 166829,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bf/35/45/bf3545a6-3d8f-fcf7-dc25-a9578cc06830/mzaf_2507514630911539294.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/4a/71/574a71e5-fc88-d0a6-3232-47968ced75f4/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E7%AE%80%E5%8D%95%E5%A4%8D%E4%BB%87-feat-knowknow/1723824964?i=1723825413&uo=4",
-      "artistName": "LSGCsikoriot"
-    },
-    {
-      "title": "失控23点",
-      "album": "天堂后花园",
-      "year": "2024",
-      "durationMs": 194118,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7b/61/3f/7b613f0b-943a-4025-d492-09ec71ce1eba/mzaf_9446520695471881936.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/4a/71/574a71e5-fc88-d0a6-3232-47968ced75f4/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E5%A4%B1%E6%8E%A723%E7%82%B9/1723824964?i=1723826185&uo=4",
       "artistName": "LSGCsikoriot"
     }
   ],
@@ -4695,13 +4695,13 @@ window.SUBLEVEL_TOP_TRACKS = {
   "kuang-zhaobei": [
     {
       "title": "灰",
-      "album": "大聲壹點 Hip-Hop Music VOL.5 In 2023",
+      "album": "大声一点Hip-Hop Music Vol.5 In 2023",
       "year": "2023",
       "durationMs": 163188,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/1d/4e/891d4e91-973c-fd33-8e8b-9bd6216f491f/mzaf_12348040336073182284.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/b8/33/d6b833be-daad-ebf4-00b4-2e928e01b45f/4711099737703.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E7%81%B0/1790792136?i=1790792144&uo=4",
-      "artistName": "狂兆北 & Taisheng Music"
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/12/70/05127069-2af3-9e6c-e9c9-69fb53da2ad6/mzaf_14253642505298256544.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/01/c2/be01c269-21e4-8175-0ec9-f88a2795cdda/4896010566850.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E7%81%B0/6788383301?i=6788383303&uo=4",
+      "artistName": "狂兆北"
     },
     {
       "title": "Double R",
@@ -5496,16 +5496,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "slayr & Lucy Bedroque"
     },
     {
-      "title": "Pretty Peach",
-      "album": "Fête de la Vanille - EP",
-      "year": "2024",
-      "durationMs": 181798,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/86/66/9a8666b3-f298-3d34-2d42-4b278602e61a/mzaf_3163496222758026855.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/0b/68/bc0b6820-5a89-15ad-96d9-f57b4f497c0f/cover_198885319161.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/pretty-peach/6774625417?i=6774625423&uo=4",
-      "artistName": "Lucy Bedroque"
-    },
-    {
       "title": "Audiostalker",
       "album": "Dreamflasher - Single",
       "year": "2025",
@@ -5514,6 +5504,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/84/e5/1684e52c-752c-07a5-3ddc-a981246187ae/193436441582_DFSquare.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/audiostalker/1838000412?i=1838000414&uo=4",
       "artistName": "Jane Remover & Lucy Bedroque"
+    },
+    {
+      "title": "Pretty Peach",
+      "album": "Fête de la Vanille - EP",
+      "year": "2024",
+      "durationMs": 181798,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/86/66/9a8666b3-f298-3d34-2d42-4b278602e61a/mzaf_3163496222758026855.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/0b/68/bc0b6820-5a89-15ad-96d9-f57b4f497c0f/cover_198885319161.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/pretty-peach/6774625417?i=6774625423&uo=4",
+      "artistName": "Lucy Bedroque"
     }
   ],
   "drogas": [
@@ -5640,16 +5640,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Molly Yam"
     },
     {
-      "title": "We gon’ be alright",
-      "album": "DIMOLLY - EP",
-      "year": "2026",
-      "durationMs": 145000,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/d5/de/a9d5de5f-044d-c16c-0747-c601b6c90fdf/mzaf_5481940421365030707.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/25/0f/b8250fde-1537-9064-3fb6-8806f0ae30fa/5026854657110.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/we-gon-be-alright/1874777978?i=1874777980&uo=4",
-      "artistName": "Molly Yam & DIMO REX"
-    },
-    {
       "title": "She was a fairy",
       "album": "Yoco",
       "year": "2025",
@@ -5658,6 +5648,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/80/a9/8880a927-27c7-bc89-b981-a6821f04f862/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/she-was-a-fairy/1855988190?i=1855988442&uo=4",
       "artistName": "Molly Yam"
+    },
+    {
+      "title": "We gon’ be alright",
+      "album": "DIMOLLY - EP",
+      "year": "2026",
+      "durationMs": 145000,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/d5/de/a9d5de5f-044d-c16c-0747-c601b6c90fdf/mzaf_5481940421365030707.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/25/0f/b8250fde-1537-9064-3fb6-8806f0ae30fa/5026854657110.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/we-gon-be-alright/1874777978?i=1874777980&uo=4",
+      "artistName": "Molly Yam & DIMO REX"
     },
     {
       "title": "Wearwolf",
@@ -6028,6 +6028,16 @@ window.SUBLEVEL_TOP_TRACKS = {
   ],
   "karaika": [
     {
+      "title": "品位",
+      "album": "Submit Evidence",
+      "year": "2026",
+      "durationMs": 100465,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/41/7e/3d417eaf-e23d-b7be-9745-7d3daecaf770/mzaf_11154965572679694313.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/d9/ae/c1d9ae3c-653c-e9ac-d8bf-2e4312aabd26/artwork.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E5%93%81%E4%BD%8D/6826544355?i=6826544371&uo=4",
+      "artistName": "karaika"
+    },
+    {
       "title": "Sawyer",
       "album": "Submit Evidence",
       "year": "2026",
@@ -6065,16 +6075,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/11/6d/8b116dd9-e909-22c8-35a4-a6a15e76361b/mzaf_17821793424650144283.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/d9/ae/c1d9ae3c-653c-e9ac-d8bf-2e4312aabd26/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/555/6826544355?i=6826544364&uo=4",
-      "artistName": "karaika"
-    },
-    {
-      "title": "品位",
-      "album": "Submit Evidence",
-      "year": "2026",
-      "durationMs": 100465,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/41/7e/3d417eaf-e23d-b7be-9745-7d3daecaf770/mzaf_11154965572679694313.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/d9/ae/c1d9ae3c-653c-e9ac-d8bf-2e4312aabd26/artwork.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E5%93%81%E4%BD%8D/6826544355?i=6826544371&uo=4",
       "artistName": "karaika"
     },
     {
