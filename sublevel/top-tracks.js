@@ -2582,16 +2582,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "DARK9COMMUNITY 暗夜社区, Omega & 88LIEN"
     },
     {
-      "title": "7E.d9c",
-      "album": "D9",
-      "year": "2024",
-      "durationMs": 151580,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a8/26/08/a826085a-37c5-e3ed-7a35-1670bcb05ac2/mzaf_17499934900525619793.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/7e-d9c/1727463111?i=1727463414&uo=4",
-      "artistName": "DARK9COMMUNITY 暗夜社区, 88LIEN & FANVY"
-    },
-    {
       "title": "Super Saiyan.d9c",
       "album": "D9",
       "year": "2024",
@@ -2600,6 +2590,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/super-saiyan-d9c/1727463111?i=1727464037&uo=4",
       "artistName": "DARK9COMMUNITY 暗夜社区, Arthurnevawakes, 5IVE5IVE & Omega"
+    },
+    {
+      "title": "7E.d9c",
+      "album": "D9",
+      "year": "2024",
+      "durationMs": 151580,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a8/26/08/a826085a-37c5-e3ed-7a35-1670bcb05ac2/mzaf_17499934900525619793.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/ec/e0/a8ece05e-a0ec-28c6-4cbd-18d199edf85c/193017139181.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/7e-d9c/1727463111?i=1727463414&uo=4",
+      "artistName": "DARK9COMMUNITY 暗夜社区, 88LIEN & FANVY"
     },
     {
       "title": "DARKSIDE.d9c",
@@ -2694,6 +2694,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Billionhappy & Sebii"
     },
     {
+      "title": "一夫多妻",
+      "album": "潮",
+      "year": "2025",
+      "durationMs": 166649,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/7d/ed/9b7ded8a-f050-8f79-7b41-1c295987297e/mzaf_16233966784568658039.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/c9/34/84c93423-feac-ab34-2b8f-9fc7095f1a8d/cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E4%B8%80%E5%A4%AB%E5%A4%9A%E5%A6%BB/1843895711?i=1843895970&uo=4",
+      "artistName": "Billionhappy & Sebii"
+    },
+    {
       "title": "装B",
       "album": "diǎo",
       "year": "2025",
@@ -2712,16 +2722,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/8d/93/c28d93cc-881a-7299-1e14-586f5bcfc243/artwork.jpg/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/%E9%98%B4%E6%9A%97b/1835236045?i=1835236070&uo=4",
       "artistName": "Billionhappy"
-    },
-    {
-      "title": "一夫多妻",
-      "album": "潮",
-      "year": "2025",
-      "durationMs": 166649,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/7d/ed/9b7ded8a-f050-8f79-7b41-1c295987297e/mzaf_16233966784568658039.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/c9/34/84c93423-feac-ab34-2b8f-9fc7095f1a8d/cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E4%B8%80%E5%A4%AB%E5%A4%9A%E5%A6%BB/1843895711?i=1843895970&uo=4",
-      "artistName": "Billionhappy & Sebii"
     },
     {
       "title": "没救了",
@@ -4010,16 +4010,6 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Yvnlazy"
     },
     {
-      "title": "Fine Shyt",
-      "album": "Re:Import",
-      "year": "2026",
-      "durationMs": 142703,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/e0/e3/d2e0e38b-658e-66aa-7e93-6ff49a7769e3/mzaf_12327446323128046167.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/8d/77/fe8d778c-b6e9-6d48-63c8-8ce6b6851d81/4550755867831_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/fine-shyt/1895527983?i=6763856382&uo=4",
-      "artistName": "Yvnlazy"
-    },
-    {
       "title": "We Gon Be Like This Forever",
       "album": "Longing, and What Lies Beyond",
       "year": "2025",
@@ -4030,13 +4020,13 @@ window.SUBLEVEL_TOP_TRACKS = {
       "artistName": "Yvnlazy"
     },
     {
-      "title": "One Second",
+      "title": "Fine Shyt",
       "album": "Re:Import",
       "year": "2026",
-      "durationMs": 126857,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/03/7c/82037c67-1a4d-cbd3-4d3d-83ab26f34e6f/mzaf_4962366663077256783.plus.aac.p.m4a",
+      "durationMs": 142703,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d2/e0/e3/d2e0e38b-658e-66aa-7e93-6ff49a7769e3/mzaf_12327446323128046167.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/8d/77/fe8d778c-b6e9-6d48-63c8-8ce6b6851d81/4550755867831_cover.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/one-second/1895527983?i=6763856645&uo=4",
+      "appleUrl": "https://music.apple.com/us/album/fine-shyt/1895527983?i=6763856382&uo=4",
       "artistName": "Yvnlazy"
     },
     {
@@ -4057,6 +4047,16 @@ window.SUBLEVEL_TOP_TRACKS = {
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/37/c4/4137c4a1-6373-8835-b8c0-313e6563a4bb/mzaf_17168206111246790767.plus.aac.p.m4a",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/18/aa/5d18aa9d-a389-9c0b-2cb2-09a55df82293/4550710340058_cover.png/100x100bb.jpg",
       "appleUrl": "https://music.apple.com/us/album/once-on-shore-we-pray-no-more/1823122496?i=1823122499&uo=4",
+      "artistName": "Yvnlazy"
+    },
+    {
+      "title": "One Second",
+      "album": "Re:Import",
+      "year": "2026",
+      "durationMs": 126857,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/03/7c/82037c67-1a4d-cbd3-4d3d-83ab26f34e6f/mzaf_4962366663077256783.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/8d/77/fe8d778c-b6e9-6d48-63c8-8ce6b6851d81/4550755867831_cover.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/one-second/1895527983?i=6763856645&uo=4",
       "artistName": "Yvnlazy"
     },
     {
@@ -4695,13 +4695,13 @@ window.SUBLEVEL_TOP_TRACKS = {
   "kuang-zhaobei": [
     {
       "title": "灰",
-      "album": "大声一点Hip-Hop Music Vol.5 In 2023",
+      "album": "大聲壹點 Hip-Hop Music VOL.5 In 2023",
       "year": "2023",
       "durationMs": 163188,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/12/70/05127069-2af3-9e6c-e9c9-69fb53da2ad6/mzaf_14253642505298256544.plus.aac.p.m4a",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/01/c2/be01c269-21e4-8175-0ec9-f88a2795cdda/4896010566850.jpg/100x100bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/%E7%81%B0/6788383301?i=6788383303&uo=4",
-      "artistName": "狂兆北"
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/1d/4e/891d4e91-973c-fd33-8e8b-9bd6216f491f/mzaf_12348040336073182284.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/b8/33/d6b833be-daad-ebf4-00b4-2e928e01b45f/4711099737703.jpg/100x100bb.jpg",
+      "appleUrl": "https://music.apple.com/us/album/%E7%81%B0/1790792136?i=1790792144&uo=4",
+      "artistName": "狂兆北 & Taisheng Music"
     },
     {
       "title": "Double R",
