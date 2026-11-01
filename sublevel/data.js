@@ -1994,18 +1994,12 @@
       "ja": "UDG CYPHER 2026のオープナー。2025年作『幽默与笑话』と2026年作『商业与玩法』で、今回のUDGサイクルで最も行単位で分析される名前のひとつになった。"
     },
     "project": {
-      "title": "City Life Kills",
-      "type": "single",
-      "date": "2022-11-18",
-      "tracks": 2,
-      "appleUrl": "https://music.apple.com/us/album/city-life-kills-single/1653317091?uo=4",
-      "preview": {
-        "title": "City Life Kills (Extended Version)",
-        "durationMs": 168275,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f2/2f/7b/f22f7b02-05b6-8845-0f55-cd8d066592bd/mzaf_374369565836365325.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/a8/fa/e3a8fa38-b9a3-674c-d6dc-2a00cd5a365d/a762d5be-9ef4-47cf-aee9-1b19d4298309.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/city-life-kills-extended-version/1653317091?i=1653317104&uo=4"
-      }
+      "title": "商业与玩法",
+      "type": "album",
+      "date": "2026-09-26",
+      "tracks": 13,
+      "appleUrl": "https://music.apple.com/us/album/%E5%95%86%E4%B8%9A%E4%B8%8E%E7%8E%A9%E6%B3%95/6815120849?uo=4",
+      "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/jesse-margiela/1652274326?uo=4",
     "avatar": "avatars/jesse-margiela.jpg",
@@ -2406,17 +2400,17 @@
       "ja": "アメリカのアンダーグラウンド・トラップ／エレクトロニック・ラップ・プロデューサー。2020年代初頭の「How It Feel」「4X4」は粗い低音とメロディックなフックをSoundCloud的な空間に残した。"
     },
     "project": {
-      "title": "How It Feel",
+      "title": "Save My Love",
       "type": "single",
-      "date": "2021-01-19",
+      "date": "2026-06-12",
       "tracks": 1,
-      "appleUrl": "https://music.apple.com/us/album/how-it-feel-single/1550039962?uo=4",
+      "appleUrl": "https://music.apple.com/us/album/save-my-love-single/6766390258?uo=4",
       "preview": {
-        "title": "How It Feel",
-        "durationMs": 155847,
-        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/62/5d/8d/625d8dc0-bfe4-f142-9b15-d662a0efdf46/mzaf_6299812122812958589.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/ae/e6/47aee653-002e-50a4-e54c-99dbead2e7a4/artwork.jpg/100x100bb.jpg",
-        "appleUrl": "https://music.apple.com/us/album/how-it-feel/1550039962?i=1550039963&uo=4"
+        "title": "Save My Love",
+        "durationMs": 365000,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/3b/29/c53b2955-9477-a437-c456-a9cb38794464/mzaf_5901424563698465099.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/fd/b0/c5fdb035-96ba-04d0-b73f-cdc11d49b18c/cover.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/save-my-love/6766390258?i=6766390259&uo=4"
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/mofly/1520323789?uo=4",
