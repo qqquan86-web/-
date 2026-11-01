@@ -60,11 +60,14 @@ for (const artist of artists) {
       appleUrl: album.collectionViewUrl,
       preview
     };
-    if (chosen.date !== artist.project.date || chosen.title !== artist.project.title) {
+    const olderThanKnown = chosen.date < artist.project.date;
+    if (!olderThanKnown && (chosen.date !== artist.project.date || chosen.title !== artist.project.title)) {
       const oldDate = artist.project.date;
       console.log(`${artist.id}: ${oldDate} -> ${chosen.date} / ${chosen.title}${preview ? '' : ' [no preview]'}`);
       artist.project = chosen;
       report.push({ id: artist.id, from: oldDate, to: chosen.date, title: chosen.title, preview: Boolean(preview) });
+    } else if (olderThanKnown) {
+      console.log(`${artist.id}: KEEP_NEWER ${artist.project.date} over ${chosen.date}`);
     }
   } catch (error) {
     console.warn('album lookup failed', artist.id, error.message);
