@@ -1994,12 +1994,18 @@
       "ja": "UDG CYPHER 2026のオープナー。2025年作『幽默与笑话』と2026年作『商业与玩法』で、今回のUDGサイクルで最も行単位で分析される名前のひとつになった。"
     },
     "project": {
-      "title": "商业与玩法",
-      "type": "album",
-      "date": "2026-09-26",
-      "tracks": 13,
-      "appleUrl": "https://music.apple.com/us/album/%E5%95%86%E4%B8%9A%E4%B8%8E%E7%8E%A9%E6%B3%95/6815120849?uo=4",
-      "preview": null
+      "title": "City Life Kills",
+      "type": "single",
+      "date": "2022-11-18",
+      "tracks": 2,
+      "appleUrl": "https://music.apple.com/us/album/city-life-kills-single/1653317091?uo=4",
+      "preview": {
+        "title": "City Life Kills (Extended Version)",
+        "durationMs": 168275,
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f2/2f/7b/f22f7b02-05b6-8845-0f55-cd8d066592bd/mzaf_374369565836365325.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/a8/fa/e3a8fa38-b9a3-674c-d6dc-2a00cd5a365d/a762d5be-9ef4-47cf-aee9-1b19d4298309.jpg/100x100bb.jpg",
+        "appleUrl": "https://music.apple.com/us/album/city-life-kills-extended-version/1653317091?i=1653317104&uo=4"
+      }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/jesse-margiela/1652274326?uo=4",
     "avatar": "avatars/jesse-margiela.jpg",
