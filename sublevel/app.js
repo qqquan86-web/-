@@ -443,6 +443,7 @@
       <article class="artist-card" style="--card-accent:${region.color};--i:${Math.min(visibleIndex, 12)}">
         <div class="card-cover">
           ${motifMarkup(artists.indexOf(artist), "card-motif")}
+          ${artist.avatar ? `<img class="cover-avatar" src="${escapeAttr(artist.avatar)}" alt="${escapeAttr(`${localizedName} — platform avatar`)}" loading="lazy" referrerpolicy="no-referrer">` : ""}
           <div class="cover-meta"><span>NO. ${serial}</span><span>${escapeHTML(region.code)} · ${year}</span></div>
           <span class="cover-initial${initialIsLong ? " is-long" : ""}" aria-hidden="true">${escapeHTML(artist.initial)}</span>
           <span class="cover-project">${escapeHTML(artist.project.title)}</span>

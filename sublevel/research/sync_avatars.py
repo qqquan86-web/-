@@ -82,6 +82,10 @@ def netease_avatar(artist: dict) -> str | None:
 
 avatars = {}
 for artist in artists:
+    current = str(artist.get("avatar", ""))
+    if current.startswith("avatars/") and (ROOT / current).exists():
+        print("KEEP", artist["id"], current)
+        continue
     avatar = deezer_avatar(artist) or netease_avatar(artist)
     if avatar:
         artist["avatar"] = avatar
@@ -89,7 +93,8 @@ for artist in artists:
         print("OK", artist["id"])
     else:
         print("MISS", artist["id"])
-        artist.setdefault("avatar", artist["project"]["preview"]["artwork"])
+        fallback = (artist.get("project", {}).get("preview") or {}).get("artwork") or ""
+        artist.setdefault("avatar", fallback)
     time.sleep(0.08)
 
 new_block = "  const ARTISTS = " + json.dumps(artists, ensure_ascii=False, indent=2) + ";\n\n"

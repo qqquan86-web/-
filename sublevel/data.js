@@ -265,7 +265,9 @@
       "experimental",
       "industrial"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/7d0757b2eaf72b6c7308bd56b04fa40c/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/bloodz-boi.jpg",
+    "neteaseId": "2103",
+    "avatarSource": "netease"
   },
   {
     "id": "yaka",
@@ -314,7 +316,9 @@
     "styles": [
       "rage"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/f2b324204d1dfaf1352269699702e3c0/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/yaka.jpg",
+    "neteaseId": "32992079",
+    "avatarSource": "netease"
   },
   {
     "id": "charity-ssb",
@@ -414,7 +418,9 @@
       "hyperpop",
       "rage"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/2e0f6adc60b04acb2b6b4035359c123d/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/chaozhou-tugou.jpg",
+    "neteaseId": "52490120",
+    "avatarSource": "netease"
   },
   {
     "id": "sowut",
@@ -464,7 +470,9 @@
       "hip-hop",
       "alternative"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/0db4a7df41f52719cfb7ba8aed8e7ebf/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/sowut.jpg",
+    "neteaseId": "28481518",
+    "avatarSource": "netease"
   },
   {
     "id": "noly",
@@ -515,7 +523,9 @@
       "industrial",
       "cloud-rap"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/b2424ed1cf1e668e39ffd0ad4ae4e63f/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/noly.jpg",
+    "neteaseId": "27910555",
+    "avatarSource": "netease"
   },
   {
     "id": "kim-ximya",
@@ -562,7 +572,9 @@
     "styles": [
       "experimental"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/71ab795cf0353d6909ba5870ac79bbb5/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/kim-ximya.jpg",
+    "neteaseId": "12342049",
+    "avatarSource": "netease"
   },
   {
     "id": "jvcki-wai",
@@ -611,7 +623,9 @@
     "styles": [
       "experimental"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/8f0ba915bb6ead5dfa4c0b053e49dbf1/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/jvcki-wai.jpg",
+    "neteaseId": "12970270",
+    "avatarSource": "netease"
   },
   {
     "id": "choilb",
@@ -660,7 +674,9 @@
       "alternative",
       "emo-rap"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/b294dac4e52301e4319f4d6c43051d56/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/choilb.jpg",
+    "neteaseId": "12645474",
+    "avatarSource": "netease"
   },
   {
     "id": "tohji",
@@ -710,7 +726,9 @@
       "cloud-rap",
       "alternative"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/a3d00d4f627ff7951cd66498e11fadf0/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/tohji.jpg",
+    "neteaseId": "13904972",
+    "avatarSource": "netease"
   },
   {
     "id": "kzm",
@@ -759,7 +777,9 @@
       "experimental",
       "cloud-rap"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/b02cd18d62637cb127ea504fe4f74ed9/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/kzm.jpg",
+    "neteaseId": "33899592",
+    "avatarSource": "netease"
   },
   {
     "id": "lil-soft-tennis",
@@ -809,7 +829,9 @@
       "hyperpop",
       "digicore"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/f39da9a36bfe7bdad27811ef446d1350/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/lil-soft-tennis.jpg",
+    "neteaseId": "47079543",
+    "avatarSource": "netease"
   },
   {
     "id": "clipping",
@@ -859,7 +881,9 @@
       "industrial",
       "experimental"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/253a94bdee4afe899bef4a44ae6669bf/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/clipping.jpg",
+    "neteaseId": "14697958",
+    "avatarSource": "netease"
   },
   {
     "id": "backxwash",
@@ -908,7 +932,9 @@
       "industrial",
       "experimental"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/8f4aef50e3946c7363ccacbe62daf042/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/backxwash.jpg",
+    "neteaseId": "32567307",
+    "avatarSource": "netease"
   },
   {
     "id": "by-storm",
@@ -956,7 +982,9 @@
     "styles": [
       "experimental"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/023aac530c955985ecf9fb7b2848a181/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/by-storm.jpg",
+    "neteaseId": "57833306",
+    "avatarSource": "netease"
   },
   {
     "id": "blackhaine",
@@ -1006,7 +1034,9 @@
       "industrial",
       "experimental"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/8d32fc733744a7ab814f0fe344bc4c6d/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/blackhaine.jpg",
+    "neteaseId": "37348840",
+    "avatarSource": "netease"
   },
   {
     "id": "nukuluk",
@@ -1055,7 +1085,9 @@
     "styles": [
       "experimental"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/6107ea51bd1fb338fa93db3817e711fb/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/nukuluk.jpg",
+    "neteaseId": "49461252",
+    "avatarSource": "netease"
   },
   {
     "id": "serane",
@@ -1156,7 +1188,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/tw/artist/%E5%9C%B0%E4%B8%8B%E5%B0%91%E5%A5%B3%E6%A8%82%E9%9A%8A/1872990204?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/a6643ce2c6e38442b15f4c39fa3416c3/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/shoujo-band.jpg",
+    "neteaseId": "122728675",
+    "avatarSource": "netease"
   },
   {
     "id": "kisso-cotty",
@@ -1206,7 +1240,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/kisso-cotty/1743154999?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/528f01a4529c3af020b0ddaa78ccd2b1/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/kisso-cotty.jpg",
+    "neteaseId": "56483836",
+    "avatarSource": "netease"
   },
   {
     "id": "vovo-weng",
@@ -1256,7 +1292,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/vovo-weng/1463761737?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/ae44fdd1a74b25424bcf43baba3dc72b/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/vovo-weng.jpg",
+    "neteaseId": "31290072",
+    "avatarSource": "netease"
   },
   {
     "id": "chilloud",
@@ -1306,7 +1344,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/chilloud/1503274785?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/d6a9d943f09d896a18ff490e5390927f/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/chilloud.jpg",
+    "neteaseId": "34585815",
+    "avatarSource": "netease"
   },
   {
     "id": "yeil",
@@ -1357,7 +1397,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/yeil/1690436799?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/104c0b4c1d017db89ae30750586a27b0/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/yeil.jpg",
+    "neteaseId": "59756526",
+    "avatarSource": "netease"
   },
   {
     "id": "0siggy",
@@ -1417,10 +1459,10 @@
       "plugg"
     ],
     "name": {
-      "zh": "龙飘飘",
+      "zh": "skiboyvv",
       "en": "skiboyvv",
-      "ko": "스키보이vv",
-      "ja": "スキボーイvv"
+      "ko": "skiboyvv",
+      "ja": "skiboyvv"
     },
     "latin": "SKIBOYVV",
     "initial": "SK",
@@ -1431,6 +1473,8 @@
       "ja": "成都"
     },
     "tags": [
+      "skiboyvv",
+      "张子越",
       "Cloud Rap",
       "Plugg",
       "Chengdu"
@@ -1451,7 +1495,9 @@
       "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/skiboyvv/1615067300?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/e14e7c06e52cdb116e41ec033c13ff3f/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/skiboyvv-20261101.jpg",
+    "neteaseId": "34146331",
+    "avatarSource": "netease"
   },
   {
     "id": "dark9community",
@@ -1551,7 +1597,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/cn/artist/billionhappy/1528136004?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/106be3359a6a7a10a10fc13f3ef8baff/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/billionhappy.jpg",
+    "neteaseId": "32501012",
+    "avatarSource": "netease"
   },
   {
     "id": "trickyzb",
@@ -1601,7 +1649,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/cn/artist/trickyzb/1751440130?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/b03e13be978419339f5aade90f55c9d1/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/trickyzb.jpg",
+    "neteaseId": "32139022",
+    "avatarSource": "netease"
   },
   {
     "id": "devstacks",
@@ -1651,7 +1701,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/devstacks/1543581587?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/23416b49229635a37601842cf45d9d23/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/devstacks.jpg",
+    "neteaseId": "37674324",
+    "avatarSource": "netease"
   },
   {
     "id": "yoyi",
@@ -1701,7 +1753,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/yoyi/1762655152?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/ba3d39306d1a123538d4fbb24dc173a8/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/yoyi.jpg",
+    "neteaseId": "55275689",
+    "avatarSource": "netease"
   },
   {
     "id": "hidoyard",
@@ -1745,7 +1799,9 @@
       "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/hidoyard/1877647294?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/0aef8e15524b35b8f7a459bdbb3b7ed7/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/hidoyard.jpg",
+    "neteaseId": "37056973",
+    "avatarSource": "netease"
   },
   {
     "id": "losty",
@@ -1795,7 +1851,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/losty/1582693499?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/ddb37bdf6e74d4eba3ef55443a269cfd/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/losty.jpg",
+    "neteaseId": "14642818",
+    "avatarSource": "netease"
   },
   {
     "id": "isolyves",
@@ -1845,7 +1903,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/isolyves/1840807930?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/b6594b609d0a699c22872739b02dc216/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/isolyves.jpg",
+    "neteaseId": "100009583",
+    "avatarSource": "netease"
   },
   {
     "id": "dd-ma-shawty",
@@ -1895,7 +1955,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/dd-ma-shawty/1851131317?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/733b3ea505861551002bff7c7ee27580/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/dd-ma-shawty.jpg",
+    "neteaseId": "94753015",
+    "avatarSource": "netease"
   },
   {
     "id": "jesse-margiela",
@@ -1905,13 +1967,13 @@
       "hip-hop"
     ],
     "name": {
-      "zh": "Jesse MargieLa",
-      "en": "Jesse MargieLa",
-      "ko": "Jesse MargieLa",
-      "ja": "Jesse MargieLa"
+      "zh": "周乘羽",
+      "en": "周乘羽",
+      "ko": "周乘羽",
+      "ja": "周乘羽"
     },
     "latin": "JESSE MARGIELA",
-    "initial": "JM",
+    "initial": "ZC",
     "base": {
       "zh": "中国",
       "en": "China",
@@ -1919,6 +1981,7 @@
       "ja": "中国"
     },
     "tags": [
+      "周乘羽",
       "UDG 2026 Cypher",
       "Alternative",
       "Hip-Hop"
@@ -1939,7 +2002,9 @@
       "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/jesse-margiela/1652274326?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/ee66296360a9260283dbb7c06e20ac63/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/jesse-margiela.jpg",
+    "neteaseId": "46356020",
+    "avatarSource": "netease"
   },
   {
     "id": "ananta",
@@ -1989,7 +2054,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/ananta/1677716394?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/e23066163f21176a822b54001ee648a2/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/ananta.jpg",
+    "neteaseId": "95358264",
+    "avatarSource": "netease"
   },
   {
     "id": "mitsu",
@@ -2039,7 +2106,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/mitsu/1537920672?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/754270234515e91c82d0ea1d6ed585bd/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/mitsu.jpg",
+    "neteaseId": "33501131",
+    "avatarSource": "netease"
   },
   {
     "id": "sei",
@@ -2139,7 +2208,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/jp/artist/kianna/1511764891?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/99dab25dd1c98e4f433e89e25b3bf704/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/kianna.jpg",
+    "neteaseId": "56975039",
+    "avatarSource": "netease"
   },
   {
     "id": "yvnlazy",
@@ -2189,7 +2260,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/jp/artist/yvnlazy/1618545208?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/7e54199370f94aea4f78818920026bd4/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/yvnlazy.jpg",
+    "neteaseId": "52221517",
+    "avatarSource": "netease"
   },
   {
     "id": "esdeekid",
@@ -2237,7 +2310,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/gb/artist/esdeekid/1754179834?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/afad4388b6359c9d3fef0110d01efcd3/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/esdeekid.jpg",
+    "neteaseId": "94095583",
+    "avatarSource": "netease"
   },
   {
     "id": "slayr",
@@ -2287,7 +2362,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/slayr/1676805496?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/ae542da8789dbc3cb732aab931093b31/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/slayr.jpg",
+    "neteaseId": "49612680",
+    "avatarSource": "netease"
   },
   {
     "id": "mofly",
@@ -2337,7 +2414,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/mofly/1520323789?uo=4",
-    "avatar": "https://p1.music.126.net/6kes8dRyEg4VdXA6_UXddw==/109951173981754442.jpg"
+    "avatar": "avatars/mofly.jpg",
+    "neteaseId": "47471965",
+    "avatarSource": "netease"
   },
   {
     "id": "lsgc",
@@ -2387,7 +2466,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/lsgcsikoriot/1581210956?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/891eb0250259003a76e079eb7d14c7df/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/lsgc.jpg",
+    "neteaseId": "33097968",
+    "avatarSource": "netease"
   },
   {
     "id": "arthurnevawakes",
@@ -2431,7 +2512,9 @@
       "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/arthurnevawakes/1725095916?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/d9c0f4ddf32045fcc4a9adec137c8eb7/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/arthurnevawakes.jpg",
+    "neteaseId": "49439822",
+    "avatarSource": "netease"
   },
   {
     "id": "sion",
@@ -2531,7 +2614,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/cn/artist/%E7%8B%82%E5%85%86%E5%8C%97/1581747989?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/5fbce0f6548a497af6552a6dad025c08/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/kuang-zhaobei.jpg",
+    "neteaseId": "30223665",
+    "avatarSource": "netease"
   },
   {
     "id": "taco",
@@ -2575,7 +2660,9 @@
       "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/taco/1652977716?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/ba4a0865d41e9645d0d99b600e627d3a/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/taco.jpg",
+    "neteaseId": "35169519",
+    "avatarSource": "netease"
   },
   {
     "id": "delphia",
@@ -2625,7 +2712,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/delphia/1666004335?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/ed46eb46723598a1a381526f18391d8d/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/delphia.jpg",
+    "neteaseId": "13296078",
+    "avatarSource": "netease"
   },
   {
     "id": "westwood",
@@ -2675,7 +2764,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/westwood/1719387562?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/69a00289d4edbeb309e987aa8c64df96/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/westwood.jpg",
+    "neteaseId": "12910116",
+    "avatarSource": "netease"
   },
   {
     "id": "nato",
@@ -2725,7 +2816,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/nato/1748413099?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/fa769d21cd2a61cfb92d7b991c162ed2/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/nato.jpg",
+    "neteaseId": "55832201",
+    "avatarSource": "netease"
   },
   {
     "id": "skyte",
@@ -2775,7 +2868,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/skyte/1521974191?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/01c6fb5e9d293235a3f76a04213d5629/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/skyte.jpg",
+    "neteaseId": "35808237",
+    "avatarSource": "netease"
   },
   {
     "id": "2hollis",
@@ -2819,7 +2914,9 @@
       "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/2hollis/1535847112?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/c1f95fb1a1767fda0d7fd7ed8b4cea70/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/2hollis.jpg",
+    "neteaseId": "37149872",
+    "avatarSource": "netease"
   },
   {
     "id": "lucy-bedroque",
@@ -2869,7 +2966,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/lucy-bedroque/1734729660?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/0c2b1d1452c91b4123796066373d32ca/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/lucy-bedroque.jpg",
+    "neteaseId": "60594286",
+    "avatarSource": "netease"
   },
   {
     "id": "drogas",
@@ -2919,7 +3018,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/drogas/1272960890?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/f17e421fb19f76a2ead96238dc29e428/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/drogas.jpg",
+    "neteaseId": "50705168",
+    "avatarSource": "netease"
   },
   {
     "id": "molly-yam",
@@ -2969,7 +3070,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/molly-yam/1761391705?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/0b5ec9b9d4159128d3c5ad426f07f6b1/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/molly-yam.jpg",
+    "neteaseId": "62188852",
+    "avatarSource": "netease"
   },
   {
     "id": "rrriot",
@@ -3013,7 +3116,9 @@
       "preview": null
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/r-r-riot/1686470173?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/6b67d150c279e7cadb65cec871f401aa/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/rrriot.jpg",
+    "neteaseId": "56724807",
+    "avatarSource": "netease"
   },
   {
     "id": "hinji",
@@ -3063,7 +3168,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/hinji/1853485222?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/aa42d99efaade9cc9621e926f64972ba/500x500-000000-80-0-0.jpg"
+    "avatar": "avatars/hinji.jpg",
+    "neteaseId": "33760720",
+    "avatarSource": "netease"
   },
   {
     "id": "pakaowlla",
@@ -3163,7 +3270,9 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/karaika/1777412041?uo=4",
-    "avatar": "https://p1.music.126.net/kmHrRvz-2g3AV_0rLQzDjA==/109951172877065957.jpg"
+    "avatar": "avatars/karaika.jpg",
+    "neteaseId": "59659039",
+    "avatarSource": "netease"
   }
 ];
 
