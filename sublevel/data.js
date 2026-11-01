@@ -368,7 +368,8 @@
       "experimental",
       "alternative"
     ],
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/43d15164bc593818f63c4e51d53e9914/500x500-000000-80-0-0.jpg"
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/43d15164bc593818f63c4e51d53e9914/500x500-000000-80-0-0.jpg",
+    "neteaseId": "49349315"
   },
   {
     "id": "chaozhou-tugou",
@@ -1137,7 +1138,8 @@
       "plugg",
       "cloud-rap"
     ],
-    "avatar": "https://p1.music.126.net/vJdGPHlfXjkR-m17cTAmVA==/109951167789414922.jpg"
+    "avatar": "https://p1.music.126.net/vJdGPHlfXjkR-m17cTAmVA==/109951167789414922.jpg",
+    "neteaseId": "48371621"
   },
   {
     "id": "shoujo-band",
@@ -1449,7 +1451,8 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/0siggy/1625823326?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/88bc32c11798982840846a04c9fa8466/500x500-000000-80-0-0.jpg"
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/88bc32c11798982840846a04c9fa8466/500x500-000000-80-0-0.jpg",
+    "neteaseId": "55667834"
   },
   {
     "id": "skiboyvv",
@@ -1547,7 +1550,8 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/cn/artist/dark9community-%E6%9A%97%E5%A4%9C%E7%A4%BE%E5%8C%BA/1727440811?uo=4",
-    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/63/ae/bc63ae4b-3f2d-1dc1-e235-1335185bfef7/cover.jpg/100x100bb.jpg"
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/63/ae/bc63ae4b-3f2d-1dc1-e235-1335185bfef7/cover.jpg/100x100bb.jpg",
+    "neteaseId": "50271799"
   },
   {
     "id": "billionhappy",
@@ -2158,7 +2162,8 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sei/1844291283?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/9fd80b648dfc430d469041f9cb04fc63/500x500-000000-80-0-0.jpg"
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/9fd80b648dfc430d469041f9cb04fc63/500x500-000000-80-0-0.jpg",
+    "neteaseId": "52574150"
   },
   {
     "id": "kianna",
@@ -2564,7 +2569,8 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/kr/artist/sion/1410596394?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/18741f89105242fd9ef436a86014b457/500x500-000000-80-0-0.jpg"
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/18741f89105242fd9ef436a86014b457/500x500-000000-80-0-0.jpg",
+    "neteaseId": "837022"
   },
   {
     "id": "kuang-zhaobei",
@@ -3220,7 +3226,8 @@
       }
     },
     "artistAppleUrl": "https://music.apple.com/us/artist/pakaowlla/1719021854?uo=4",
-    "avatar": "https://cdn-images.dzcdn.net/images/artist/0a2e0ebd2dcece30db6ee9619d26fd1d/500x500-000000-80-0-0.jpg"
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/0a2e0ebd2dcece30db6ee9619d26fd1d/500x500-000000-80-0-0.jpg",
+    "neteaseId": "62145519"
   },
   {
     "id": "karaika",

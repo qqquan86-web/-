@@ -45,7 +45,7 @@ jobs:
         run: python sublevel/research/sync_avatars.py
 
       - name: Refresh Top Tracks
-        run: node sublevel/research/sync_top_tracks.mjs
+        run: node sublevel/research/sync_top_tracks_netease.mjs
 
       - name: Commit changed data
         shell: bash

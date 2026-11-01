@@ -770,7 +770,7 @@
               const key = `${artist.id}:${index}`;
               const active = currentTrackKey === key && !audio.paused;
               const playable = Boolean(track.previewUrl);
-              const externalUrl = track.appleUrl || track.externalUrl || artist.project.appleUrl;
+              const externalUrl = track.externalUrl || track.appleUrl || artist.project.appleUrl;
               return `
               <li class="track-row${active ? " is-playing" : ""}${playable ? "" : " is-external"}">
                 <span class="track-index">${pad(index + 1)}</span>
